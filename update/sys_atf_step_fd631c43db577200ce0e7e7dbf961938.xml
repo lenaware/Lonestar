@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Set the values on the form as follows:
+Code = 202020202
+and Description = Testing</description>
+        <display_name>Set Field Values</display_name>
+        <inputs/>
+        <order>3</order>
+        <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>btippens</sys_created_by>
+        <sys_created_on>2017-06-16 04:33:59</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>fd631c43db577200ce0e7e7dbf961938</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
+        <sys_update_name>sys_atf_step_fd631c43db577200ce0e7e7dbf961938</sys_update_name>
+        <sys_updated_by>btippens</sys_updated_by>
+        <sys_updated_on>2017-06-16 04:33:59</sys_updated_on>
+        <table>x_18496_bso_manage_location</table>
+        <test display_value="Budget Distribution Lines">f1829843db577200ce0e7e7dbf96195b</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=fd631c43db577200ce0e7e7dbf961938"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>fd631c43db577200ce0e7e7dbf961938</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>btippens</sys_created_by>
+        <sys_created_on>2017-06-16 04:33:59</sys_created_on>
+        <sys_id>b7839083db577200ce0e7e7dbf961987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>btippens</sys_updated_by>
+        <sys_updated_on>2017-06-16 04:33:59</sys_updated_on>
+        <value>x_18496_bso_manage_location</value>
+        <variable display_value="">424ca6465320220002c6435723dc34b5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>fd631c43db577200ce0e7e7dbf961938</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>btippens</sys_created_by>
+        <sys_created_on>2017-06-16 04:33:59</sys_created_on>
+        <sys_id>ff839083db577200ce0e7e7dbf961987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>btippens</sys_updated_by>
+        <sys_updated_on>2017-06-16 04:33:59</sys_updated_on>
+        <value>code=202020202^description=Testing^EQ</value>
+        <variable display_value="">b3dba2465320220002c6435723dc34f0</variable>
+    </sys_variable_value>
+</record_update>

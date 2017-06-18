@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="x_18496_bso_manage_u_purchasing_contract" table="core_company" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_18496_bso_manage_u_purchasing_contract</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DIR</label>
+            <language>en</language>
+            <name>core_company</name>
+            <sequence>0</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-18 04:53:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6a3ba6ebdbd7b200ce0e7e7dbf961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-18 04:53:35</sys_updated_on>
+            <value>DIR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_18496_bso_manage_u_purchasing_contract</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MSA</label>
+            <language>en</language>
+            <name>core_company</name>
+            <sequence>1</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-18 04:53:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a63ba6ebdbd7b200ce0e7e7dbf961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-18 04:53:35</sys_updated_on>
+            <value>MSA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_18496_bso_manage_u_purchasing_contract</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TCPN</label>
+            <language>en</language>
+            <name>core_company</name>
+            <sequence>2</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-18 04:53:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>223ba6ebdbd7b200ce0e7e7dbf961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-18 04:53:35</sys_updated_on>
+            <value>TCPN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_18496_bso_manage_u_purchasing_contract</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TIPS/TAPS</label>
+            <language>en</language>
+            <name>core_company</name>
+            <sequence>3</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-18 04:53:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aa3ba6ebdbd7b200ce0e7e7dbf961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-18 04:53:35</sys_updated_on>
+            <value>TIPS/TAPS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_18496_bso_manage_u_purchasing_contract</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BuyBoard</label>
+            <language>en</language>
+            <name>core_company</name>
+            <sequence>4</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-18 04:53:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>263ba6ebdbd7b200ce0e7e7dbf961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-18 04:53:35</sys_updated_on>
+            <value>BuyBoard</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_18496_bso_manage_u_purchasing_contract</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice Partners</label>
+            <language>en</language>
+            <name>core_company</name>
+            <sequence>5</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-18 04:53:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ae3ba6ebdbd7b200ce0e7e7dbf961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-18 04:53:35</sys_updated_on>
+            <value>Choice Partners</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_18496_bso_manage_u_purchasing_contract</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Educational &amp; Institutional Purchasing Cooperative</label>
+            <language>en</language>
+            <name>core_company</name>
+            <sequence>6</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-18 04:53:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a3ba6ebdbd7b200ce0e7e7dbf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-18 04:53:35</sys_updated_on>
+            <value>Educational &amp; Institutional Purchasing Cooperative</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_18496_bso_manage_u_purchasing_contract</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Harris County Department of Education</label>
+            <language>en</language>
+            <name>core_company</name>
+            <sequence>7</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-18 04:53:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a23ba6ebdbd7b200ce0e7e7dbf96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-18 04:53:35</sys_updated_on>
+            <value>Harris County Department of Education</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_18496_bso_manage_u_purchasing_contract</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TPASS (State Purchasing)</label>
+            <language>en</language>
+            <name>core_company</name>
+            <sequence>8</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-18 04:53:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e3ba6ebdbd7b200ce0e7e7dbf96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-18 04:53:35</sys_updated_on>
+            <value>TPASS (State Purchasing)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_18496_bso_manage_u_purchasing_contract</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TXMAS (these are Contracts from the GSA Federal Schedules)</label>
+            <language>en</language>
+            <name>core_company</name>
+            <sequence>9</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-18 04:53:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a63ba6ebdbd7b200ce0e7e7dbf96199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-18 04:53:35</sys_updated_on>
+            <value>TXMAS (these are Contracts from the GSA Federal Schedules)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_18496_bso_manage_u_purchasing_contract</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HGAC – Houston Galveston Area Council</label>
+            <language>en</language>
+            <name>core_company</name>
+            <sequence>10</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-18 04:53:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>223ba6ebdbd7b200ce0e7e7dbf96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-18 04:53:35</sys_updated_on>
+            <value>HGAC – Houston Galveston Area Council</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_18496_bso_manage_u_purchasing_contract</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Purchasing Solutions Alliance</label>
+            <language>en</language>
+            <name>core_company</name>
+            <sequence>11</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-18 04:53:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aa3ba6ebdbd7b200ce0e7e7dbf96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-18 04:53:35</sys_updated_on>
+            <value>Purchasing Solutions Alliance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_18496_bso_manage_u_purchasing_contract</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Southeast Texas Purchasing Organization – Region 5 ESC</label>
+            <language>en</language>
+            <name>core_company</name>
+            <sequence>12</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-18 04:53:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>263ba6ebdbd7b200ce0e7e7dbf96199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-18 04:53:35</sys_updated_on>
+            <value>Southeast Texas Purchasing Organization – Region 5 ESC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_18496_bso_manage_u_purchasing_contract</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NJPA - National Joint Powers Alliance</label>
+            <language>en</language>
+            <name>core_company</name>
+            <sequence>13</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-18 04:53:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ae3ba6ebdbd7b200ce0e7e7dbf96199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-18 04:53:35</sys_updated_on>
+            <value>NJPA - National Joint Powers Alliance</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>x_18496_bso_manage_u_purchasing_contract</element>
+            <name>core_company</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-18 04:53:35</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>623ba6ebdbd7b200ce0e7e7dbf961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_18496_bso_manage_u_purchasing_contract</sys_name>
+            <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
+            <sys_update_name>sys_choice_core_company_x_18496_bso_manage_u_purchasing_contract</sys_update_name>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-18 04:53:35</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

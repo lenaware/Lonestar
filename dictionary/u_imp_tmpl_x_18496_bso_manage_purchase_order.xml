@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 18496 Bso Manage Purchase Order" max_length="40" name="u_imp_tmpl_x_18496_bso_manage_purchase_order" type="collection">
+        <element attributes="import_attribute_name=CC Owner Name,edge_encryption_enabled=true" label="CC Owner Name" max_length="100" name="u_cc_owner_name" type="string"/>
+        <element attributes="import_attribute_name=PO Distribution,edge_encryption_enabled=true" label="PO Distribution" max_length="40" name="u_po_distribution" type="string"/>
+        <element attributes="import_attribute_name=PO LIne,edge_encryption_enabled=true" label="PO LIne" max_length="40" name="u_po_line" type="string"/>
+        <element attributes="import_attribute_name=PO Number,edge_encryption_enabled=true" label="PO Number" max_length="40" name="u_po_number" type="string"/>
+        <element attributes="import_attribute_name=Requisition Line,edge_encryption_enabled=true" label="Requisition Line" max_length="40" name="u_requisition_line" type="string"/>
+        <element attributes="import_attribute_name=Requisition Number,edge_encryption_enabled=true" label="Requisition Number" max_length="40" name="u_requisition_number" type="string"/>
+    </element>
+</database>

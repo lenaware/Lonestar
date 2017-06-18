@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_type" table="x_18496_bso_manage_business_service_operations" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Board Approval</label>
+            <language>en</language>
+            <name>x_18496_bso_manage_business_service_operations</name>
+            <sequence>0</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:13:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>02dda1d2db533200ce0e7e7dbf96198d</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-15 23:06:07</sys_updated_on>
+            <value>Board Approval</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Obligation</label>
+            <language>en</language>
+            <name>x_18496_bso_manage_business_service_operations</name>
+            <sequence>1</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:09:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f3eca992db533200ce0e7e7dbf9619af</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-15 23:06:07</sys_updated_on>
+            <value>Obligation</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_type</element>
+            <name>x_18496_bso_manage_business_service_operations</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:09:01</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>bfeca992db533200ce0e7e7dbf9619ae</sys_id>
+            <sys_mod_count>11</sys_mod_count>
+            <sys_name>u_type</sys_name>
+            <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
+            <sys_update_name>sys_choice_x_18496_bso_manage_business_service_operations_u_type</sys_update_name>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-15 23:08:44</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

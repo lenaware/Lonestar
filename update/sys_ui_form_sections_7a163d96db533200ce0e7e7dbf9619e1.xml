@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="7a163d96db533200ce0e7e7dbf9619e1" sys_domain="global" table="x_18496_bso_manage_contract" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:49:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32163d96db533200ce0e7e7dbf9619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_18496_bso_manage_contract" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">7a163d96db533200ce0e7e7dbf9619e1</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">9fd0f516db533200ce0e7e7dbf9619d2</sys_ui_section>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 03:49:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:49:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e163d96db533200ce0e7e7dbf9619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_18496_bso_manage_contract" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">7a163d96db533200ce0e7e7dbf9619e1</sys_ui_form>
+            <sys_ui_section caption="Financials" display_value="Financials" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">7a163d96db533200ce0e7e7dbf9619e0</sys_ui_section>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 03:49:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:49:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a163d96db533200ce0e7e7dbf9619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_18496_bso_manage_contract" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">7a163d96db533200ce0e7e7dbf9619e1</sys_ui_form>
+            <sys_ui_section caption="Comments and Activity" display_value="Comments and Activity" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">fe163d96db533200ce0e7e7dbf9619e0</sys_ui_section>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 03:49:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_18496_bso_manage_contract</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:49:06</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a163d96db533200ce0e7e7dbf9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_18496_bso_manage_contract</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
+            <sys_update_name>sys_ui_form_sections_7a163d96db533200ce0e7e7dbf9619e1</sys_update_name>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 03:49:06</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_string_3" table="x_18496_bso_manage_contract" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2009</label>
+            <language>en</language>
+            <name>x_18496_bso_manage_contract</name>
+            <sequence>0</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:31:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f027156db533200ce0e7e7dbf9619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 03:31:24</sys_updated_on>
+            <value>2009</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2010</label>
+            <language>en</language>
+            <name>x_18496_bso_manage_contract</name>
+            <sequence>1</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:31:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b027156db533200ce0e7e7dbf9619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 03:31:24</sys_updated_on>
+            <value>2010</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2011</label>
+            <language>en</language>
+            <name>x_18496_bso_manage_contract</name>
+            <sequence>2</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:31:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63027156db533200ce0e7e7dbf9619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 03:31:24</sys_updated_on>
+            <value>2011</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2012</label>
+            <language>en</language>
+            <name>x_18496_bso_manage_contract</name>
+            <sequence>3</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:31:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab027156db533200ce0e7e7dbf9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 03:31:24</sys_updated_on>
+            <value>2012</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2013</label>
+            <language>en</language>
+            <name>x_18496_bso_manage_contract</name>
+            <sequence>4</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:31:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e3027156db533200ce0e7e7dbf9619ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 03:31:24</sys_updated_on>
+            <value>2013</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2014</label>
+            <language>en</language>
+            <name>x_18496_bso_manage_contract</name>
+            <sequence>5</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:31:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f027156db533200ce0e7e7dbf9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 03:31:24</sys_updated_on>
+            <value>2014</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2015</label>
+            <language>en</language>
+            <name>x_18496_bso_manage_contract</name>
+            <sequence>6</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:31:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>67027156db533200ce0e7e7dbf9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 03:31:24</sys_updated_on>
+            <value>2015</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2016</label>
+            <language>en</language>
+            <name>x_18496_bso_manage_contract</name>
+            <sequence>7</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:31:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af027156db533200ce0e7e7dbf9619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 03:31:24</sys_updated_on>
+            <value>2016</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2017</label>
+            <language>en</language>
+            <name>x_18496_bso_manage_contract</name>
+            <sequence>8</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:31:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e7027156db533200ce0e7e7dbf9619f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 03:31:24</sys_updated_on>
+            <value>2017</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2018</label>
+            <language>en</language>
+            <name>x_18496_bso_manage_contract</name>
+            <sequence>9</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:31:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>23027156db533200ce0e7e7dbf9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 03:31:24</sys_updated_on>
+            <value>2018</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2019</label>
+            <language>en</language>
+            <name>x_18496_bso_manage_contract</name>
+            <sequence>10</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:31:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6b027156db533200ce0e7e7dbf9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 03:31:24</sys_updated_on>
+            <value>2019</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2020</label>
+            <language>en</language>
+            <name>x_18496_bso_manage_contract</name>
+            <sequence>11</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:31:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3027156db533200ce0e7e7dbf9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 03:31:24</sys_updated_on>
+            <value>2020</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2021</label>
+            <language>en</language>
+            <name>x_18496_bso_manage_contract</name>
+            <sequence>12</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:31:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb027156db533200ce0e7e7dbf9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 03:31:24</sys_updated_on>
+            <value>2021</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2022</label>
+            <language>en</language>
+            <name>x_18496_bso_manage_contract</name>
+            <sequence>13</sequence>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:31:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>27027156db533200ce0e7e7dbf9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 03:31:24</sys_updated_on>
+            <value>2022</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_string_3</element>
+            <name>x_18496_bso_manage_contract</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 03:31:24</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>e3027156db533200ce0e7e7dbf9619e9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>u_string_3</sys_name>
+            <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
+            <sys_update_name>sys_choice_x_18496_bso_manage_contract_u_string_3</sys_update_name>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 03:31:24</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

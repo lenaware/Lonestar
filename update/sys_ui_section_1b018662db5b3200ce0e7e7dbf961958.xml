@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="1b018662db5b3200ce0e7e7dbf961958" sys_domain="global" table="core_company" version="3" view="vendor">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_18496_bso_manage_u_id</element>
+            <position>0</position>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-16 00:02:50</sys_created_on>
+            <sys_id>cc851f36dbd37200ce0e7e7dbf96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="core_company" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">1b018662db5b3200ce0e7e7dbf961958</sys_ui_section>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-16 00:02:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-16 00:02:50</sys_created_on>
+            <sys_id>40851f36dbd37200ce0e7e7dbf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="core_company" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">1b018662db5b3200ce0e7e7dbf961958</sys_ui_section>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-16 00:02:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_18496_bso_manage_u_purchasing_contract_vendor</element>
+            <position>2</position>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-16 00:02:50</sys_created_on>
+            <sys_id>c0851f36dbd37200ce0e7e7dbf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="core_company" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">1b018662db5b3200ce0e7e7dbf961958</sys_ui_section>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-16 00:02:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_18496_bso_manage_u_type</element>
+            <position>3</position>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-16 00:02:50</sys_created_on>
+            <sys_id>44851f36dbd37200ce0e7e7dbf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="core_company" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">1b018662db5b3200ce0e7e7dbf961958</sys_ui_section>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-16 00:02:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-16 00:02:50</sys_created_on>
+            <sys_id>c4851f36dbd37200ce0e7e7dbf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="core_company" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">1b018662db5b3200ce0e7e7dbf961958</sys_ui_section>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-16 00:02:50</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_18496_bso_manage_u_dba</element>
+            <position>5</position>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-16 00:02:50</sys_created_on>
+            <sys_id>48851f36dbd37200ce0e7e7dbf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="core_company" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">1b018662db5b3200ce0e7e7dbf961958</sys_ui_section>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-16 00:02:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rank_tier</element>
+            <position>6</position>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-16 00:02:50</sys_created_on>
+            <sys_id>c8851f36dbd37200ce0e7e7dbf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="core_company" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">1b018662db5b3200ce0e7e7dbf961958</sys_ui_section>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-16 00:02:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vendor_manager</element>
+            <position>7</position>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-16 00:02:50</sys_created_on>
+            <sys_id>4c851f36dbd37200ce0e7e7dbf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="core_company" sys_domain="global" view="c12b7492d7010100fceaa6859e6103e6">1b018662db5b3200ce0e7e7dbf961958</sys_ui_section>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-16 00:02:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>core_company</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 23:15:24</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b018662db5b3200ce0e7e7dbf961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>core_company</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
+            <sys_update_name>sys_ui_section_1b018662db5b3200ce0e7e7dbf961958</sys_update_name>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 23:15:24</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Vendor" name="vendor">c12b7492d7010100fceaa6859e6103e6</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

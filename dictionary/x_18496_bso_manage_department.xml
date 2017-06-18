@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Department" max_length="40" name="x_18496_bso_manage_department" type="collection">
+        <element label="Code" max_length="40" name="code" type="string"/>
+        <element display="true" label="Description" max_length="40" name="description" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="code" label="Code" language="en" table="x_18496_bso_manage_cost_elements">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>code</element>
+            <help/>
+            <hint/>
+            <label>Code</label>
+            <language>en</language>
+            <name>x_18496_bso_manage_cost_elements</name>
+            <plural>Codes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 05:05:22</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>08970e52db933200ce0e7e7dbf961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Code</sys_name>
+            <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
+            <sys_update_name>sys_documentation_x_18496_bso_manage_cost_elements_code_en</sys_update_name>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 05:05:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

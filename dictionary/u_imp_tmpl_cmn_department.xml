@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl Cmn Department" max_length="40" name="u_imp_tmpl_cmn_department" type="collection">
+        <element attributes="import_attribute_name=Department head,edge_encryption_enabled=true" label="Department head" max_length="32" name="u_department_head" type="string"/>
+        <element attributes="import_attribute_name=Description,edge_encryption_enabled=true" label="Description" max_length="1000" name="u_description" type="string"/>
+        <element attributes="import_attribute_name=ID,edge_encryption_enabled=true" label="ID" max_length="40" name="u_id" type="string"/>
+        <element attributes="import_attribute_name=Name,edge_encryption_enabled=true" label="Name" max_length="100" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=Primary contact,edge_encryption_enabled=true" label="Primary contact" max_length="32" name="u_primary_contact" type="string"/>
+        <element attributes="import_attribute_name=Updated" label="Updated" max_length="40" name="u_updated" type="glide_date_time"/>
+    </element>
+</database>

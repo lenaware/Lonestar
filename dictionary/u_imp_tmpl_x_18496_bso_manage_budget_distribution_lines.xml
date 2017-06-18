@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 18496 Bso Manage Budget Distribution Lines" max_length="40" name="u_imp_tmpl_x_18496_bso_manage_budget_distribution_lines" type="collection">
+        <element attributes="import_attribute_name=Account,edge_encryption_enabled=true" label="Account" max_length="32" name="u_account" type="string"/>
+        <element attributes="import_attribute_name=Amount" label="Amount" max_length="20" name="u_amount" type="integer"/>
+        <element attributes="import_attribute_name=Cost Element,edge_encryption_enabled=true" label="Cost Element" max_length="32" name="u_cost_element" type="string"/>
+        <element attributes="import_attribute_name=Department,edge_encryption_enabled=true" label="Department" max_length="32" name="u_department" type="string"/>
+        <element attributes="import_attribute_name=Fund,edge_encryption_enabled=true" label="Fund" max_length="32" name="u_fund" type="string"/>
+        <element attributes="import_attribute_name=Location,edge_encryption_enabled=true" label="Location" max_length="32" name="u_location" type="string"/>
+        <element attributes="import_attribute_name=Number,edge_encryption_enabled=true" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="import_attribute_name=Project,edge_encryption_enabled=true" label="Project" max_length="32" name="u_project" type="string"/>
+    </element>
+</database>

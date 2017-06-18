@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Fund" max_length="40" name="x_18496_bso_manage_fund" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Code" max_length="40" name="u_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Description" max_length="40" name="u_string_2" type="string"/>
+    </element>
+</database>

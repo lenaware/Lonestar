@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="785d799adb533200ce0e7e7dbf9619a8" sys_domain="global" table="x_18496_bso_manage_budget_distribution_lines" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 04:20:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc5d799adb533200ce0e7e7dbf9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_18496_bso_manage_budget_distribution_lines" name="x_18496_bso_manage_budget_distribution_lines" sys_domain="global" view="Default view">785d799adb533200ce0e7e7dbf9619a8</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_budget_distribution_lines" sys_domain="global" view="Default view">ceaa755adb533200ce0e7e7dbf961956</sys_ui_section>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 04:20:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 04:20:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>785d799adb533200ce0e7e7dbf9619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_18496_bso_manage_budget_distribution_lines" name="x_18496_bso_manage_budget_distribution_lines" sys_domain="global" view="Default view">785d799adb533200ce0e7e7dbf9619a8</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_18496_bso_manage_budget_distribution_lines" sys_domain="global" view="Default view">bc5d799adb533200ce0e7e7dbf9619a7</sys_ui_section>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 04:20:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_18496_bso_manage_budget_distribution_lines</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2017-06-14 04:20:38</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>785d799adb533200ce0e7e7dbf9619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_18496_bso_manage_budget_distribution_lines</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
+            <sys_update_name>sys_ui_form_sections_785d799adb533200ce0e7e7dbf9619a8</sys_update_name>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2017-06-14 04:20:38</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

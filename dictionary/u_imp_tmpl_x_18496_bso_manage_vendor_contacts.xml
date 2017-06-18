@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" max_length="40" name="u_imp_tmpl_x_18496_bso_manage_vendor_contacts" type="collection">
+        <element attributes="import_attribute_name=Cell,edge_encryption_enabled=true" label="Cell" max_length="40" name="u_cell" type="string"/>
+        <element attributes="import_attribute_name=Company,edge_encryption_enabled=true" label="Company" max_length="32" name="u_company" type="string"/>
+        <element attributes="import_attribute_name=Department,edge_encryption_enabled=true" label="Department" max_length="40" name="u_department" type="string"/>
+        <element attributes="import_attribute_name=Email,edge_encryption_enabled=true" label="Email" max_length="40" name="u_email" type="string"/>
+        <element attributes="import_attribute_name=Name,edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=Phone,edge_encryption_enabled=true" label="Phone" max_length="40" name="u_phone" type="string"/>
+        <element attributes="import_attribute_name=Role,edge_encryption_enabled=true" label="Role" max_length="40" name="u_role" type="string"/>
+    </element>
+</database>
