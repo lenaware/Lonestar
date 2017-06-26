@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="email_client=true" extends="task" label="Business Service Operations" max_length="40" name="x_18496_bso_manage_business_service_operations" sizeclass="4" type="collection">
+    <element attributes="email_client=true" extends="task" label="Business Service Operations" max_length="40" name="x_18496_bso_manage_business_service_operations" type="collection">
         <element attributes="omit_sys_original=true" label="Amount" max_length="20" name="amount" type="currency"/>
         <element label="Best contact number" max_length="40" name="best_contact_number" type="phone_number_e164"/>
         <element label="Board Approval Action Item" max_length="100" name="board_approval_action_item" type="string"/>
@@ -14,5 +14,14 @@
                 <element label="Obligation" sequence="1" value="Obligation"/>
             </choice>
         </element>
+        <index name="index">
+            <element name="u_owner"/>
+        </index>
+        <index name="index2">
+            <element name="u_location"/>
+        </index>
+        <index name="index3">
+            <element name="building"/>
+        </index>
     </element>
 </database>

@@ -5,13 +5,12 @@
         <hint/>
         <name>Business Service Operations</name>
         <order/>
-        <roles>x_18496_bso_manage.business_service_operations_user</roles>
+        <roles>x_18496_bso_manage.business_service_oper</roles>
         <sys_class_name>sys_ui_application</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-14 02:23:23</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>db72a55edb133200ce0e7e7dbf9619a5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Business Service Operations</sys_name>

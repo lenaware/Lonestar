@@ -4,7 +4,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>code</element>
-            <list_id display_value="x_18496_bso_manage_cost_elements" element="NULL" name="x_18496_bso_manage_cost_elements" parent="NULL" relationship="NULL" sys_domain="global" view="1b2f1723f5213200a21cc3267c0bd580">6ebd6b0bdbdb7200ce0e7e7dbf96195f</list_id>
+            <list_id display_value="x_18496_bso_manage_cost_elements" element="NULL" name="x_18496_bso_manage_cost_elements" parent="NULL" relationship="NULL" sys_domain="global" view="2917c33399112000728bc7869a18fa17">6ebd6b0bdbdb7200ce0e7e7dbf96195f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -19,7 +19,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>description</element>
-            <list_id display_value="x_18496_bso_manage_cost_elements" element="NULL" name="x_18496_bso_manage_cost_elements" parent="NULL" relationship="NULL" sys_domain="global" view="1b2f1723f5213200a21cc3267c0bd580">6ebd6b0bdbdb7200ce0e7e7dbf96195f</list_id>
+            <list_id display_value="x_18496_bso_manage_cost_elements" element="NULL" name="x_18496_bso_manage_cost_elements" parent="NULL" relationship="NULL" sys_domain="global" view="2917c33399112000728bc7869a18fa17">6ebd6b0bdbdb7200ce0e7e7dbf96195f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -44,9 +44,8 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>btippens</sys_created_by>
             <sys_created_on>2017-06-16 20:27:10</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>6ebd6b0bdbdb7200ce0e7e7dbf96195f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_18496_bso_manage_cost_elements</sys_name>
@@ -58,7 +57,7 @@
             <sys_updated_by>btippens</sys_updated_by>
             <sys_updated_on>2017-06-16 20:27:10</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">1b2f1723f5213200a21cc3267c0bd580</view>
+            <view display_value="Reference List" name="sys_ref_list">2917c33399112000728bc7869a18fa17</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

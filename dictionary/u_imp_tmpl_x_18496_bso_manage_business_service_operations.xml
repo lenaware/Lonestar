@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 18496 Bso Manage Business Service Operations" max_length="40" name="u_imp_tmpl_x_18496_bso_manage_business_service_operations" type="collection">
+        <element attributes="import_attribute_name=Expiration Date" label="Expiration Date" max_length="40" name="u_expiration_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Number,edge_encryption_enabled=true" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="import_attribute_name=Owner,edge_encryption_enabled=true" label="Owner" max_length="32" name="u_owner" type="string"/>
+        <element attributes="import_attribute_name=Short Description,edge_encryption_enabled=true" label="Short Description" max_length="40" name="u_short_description" type="string"/>
+    </element>
+</database>

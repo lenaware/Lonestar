@@ -6,7 +6,6 @@
             <sys_created_by>btippens</sys_created_by>
             <sys_created_on>2017-06-16 20:01:28</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>ced7a3c7dbdb7200ce0e7e7dbf96193e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
@@ -20,7 +19,6 @@
             <sys_created_by>btippens</sys_created_by>
             <sys_created_on>2017-06-16 20:01:28</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>cad7a3c7dbdb7200ce0e7e7dbf96193f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
@@ -35,9 +33,8 @@
             <sys_class_name>sys_ui_form</sys_class_name>
             <sys_created_by>btippens</sys_created_by>
             <sys_created_on>2017-06-16 20:01:28</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>8ad7a3c7dbdb7200ce0e7e7dbf96193b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_18496_bso_manage_purchase_order</sys_name>

@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>btippens</sys_created_by>
             <sys_created_on>2017-06-14 23:44:54</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>27c78e26db5b3200ce0e7e7dbf96198a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Purchasing Contract Vendor</sys_name>

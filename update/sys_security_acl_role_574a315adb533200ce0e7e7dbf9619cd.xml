@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-14 04:07:25</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>574a315adb533200ce0e7e7dbf9619cd</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_18496_bso_manage_budget_distribution_lines.x_18496_bso_manage.budget_distribution_lines_user</sys_name>

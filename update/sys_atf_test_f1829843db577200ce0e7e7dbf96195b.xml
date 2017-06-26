@@ -8,7 +8,7 @@
         <sys_class_name>sys_atf_test</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-16 04:29:36</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>f1829843db577200ce0e7e7dbf96195b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Budget Distribution Lines</sys_name>

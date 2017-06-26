@@ -5,11 +5,15 @@
         <access>package_private</access>
         <action_delete>false</action_delete>
         <action_insert>true</action_insert>
+        <action_label/>
+        <action_name/>
         <action_query>true</action_query>
+        <action_run_at/>
         <action_update>true</action_update>
         <active>true</active>
         <add_message>false</add_message>
         <advanced>true</advanced>
+        <application/>
         <change_fields>false</change_fields>
         <client_callable>false</client_callable>
         <collection>x_18496_bso_manage_budget_distribution_lines</collection>
@@ -27,8 +31,10 @@
         <is_rest>false</is_rest>
         <message/>
         <name>GL Distribution </name>
+        <onclick/>
         <order>100</order>
         <priority>100</priority>
+        <read_access_action>false</read_access_action>
         <rest_method/>
         <rest_method_text/>
         <rest_service/>
@@ -42,9 +48,8 @@ current.u_gl_distribution = current.u_fund.u_code + "." + current.u_cost_element
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-15 05:44:07</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>5f295b6adbdb3200ce0e7e7dbf9619fe</sys_id>
         <sys_mod_count>9</sys_mod_count>
         <sys_name>GL Distribution </sys_name>
@@ -59,5 +64,4 @@ current.u_gl_distribution = current.u_fund.u_code + "." + current.u_cost_element
         <template/>
         <when>before</when>
     </sys_script>
-    <sys_translated_text action="delete_multiple" query="documentkey=5f295b6adbdb3200ce0e7e7dbf9619fe"/>
 </record_update>

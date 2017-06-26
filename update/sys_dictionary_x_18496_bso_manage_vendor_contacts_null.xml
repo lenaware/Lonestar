@@ -6,12 +6,12 @@
         <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
+        <calculation>(function calculatedFieldValue(current) {
 
 	// Add your code here
 	return '';  // return the calculated value
 
-})(current);]]></calculation>
+})(current);</calculation>
         <choice/>
         <choice_field/>
         <choice_table/>
@@ -52,17 +52,17 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-15 19:45:07</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>018a9232db537200ce0e7e7dbf96195c</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e562721adb6bfa809b325bc0cf961917</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_18496_bso_manage_vendor_contacts</sys_name>
         <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
-        <sys_update_name>sys_dictionary_x_18496_bso_manage_vendor_contacts_null</sys_update_name>
-        <sys_updated_by>btippens</sys_updated_by>
-        <sys_updated_on>2017-06-15 19:45:07</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_18496_bso_manage_vendor_contacts_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-06-26 18:29:35</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

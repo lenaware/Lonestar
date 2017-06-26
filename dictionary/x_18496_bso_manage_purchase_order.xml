@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="Purchase Order" max_length="40" name="x_18496_bso_manage_purchase_order" sizeclass="4" type="collection">
+    <element audit="true" extends="task" label="Purchase Order" max_length="40" name="x_18496_bso_manage_purchase_order" type="collection">
         <element attributes="omit_sys_original=true" label="Amount" max_length="20" name="u_amount" type="currency"/>
         <element attributes="edge_encryption_enabled=true" hint="Credit Card Owner Name" label="CC Owner Name" max_length="100" name="u_cc_owner_name" type="string"/>
         <element hint="Parent Budget Distribution Line" label="Parent BDL" max_length="32" name="u_parent_bdl" reference="x_18496_bso_manage_budget_distribution_lines" type="reference"/>
@@ -10,5 +10,8 @@
         <element attributes="edge_encryption_enabled=true" hint="Procurement Contract Number" label="PO Number" max_length="40" name="u_po_number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Requisition Line" max_length="40" name="u_requisition_line" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Requisition Number" max_length="40" name="u_requisition_number" type="string"/>
+        <index name="index">
+            <element name="u_parent_bdl"/>
+        </index>
     </element>
 </database>

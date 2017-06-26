@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>btippens</sys_created_by>
             <sys_created_on>2017-06-16 20:05:33</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>c6c86fc7dbdb7200ce0e7e7dbf96195b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Imp Tmpl X 18496 Bso Manage Purchase Order</sys_name>

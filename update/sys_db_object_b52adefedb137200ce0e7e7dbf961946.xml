@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-15 19:45:07</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>b52adefedb137200ce0e7e7dbf961946</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Vendor Contacts</sys_name>

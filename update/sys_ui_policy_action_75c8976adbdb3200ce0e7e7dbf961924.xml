@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-15 05:39:07</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>75c8976adbdb3200ce0e7e7dbf961924</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>u_gl_distribution</sys_name>

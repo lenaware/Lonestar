@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="Contract" max_length="40" name="x_18496_bso_manage_contract" sizeclass="19" type="collection">
+    <element audit="true" extends="task" label="Contract" max_length="40" name="x_18496_bso_manage_contract" type="collection">
         <element hint="Business Service Operations items filtered by type = Board Approval. For Obligation type, see that field." label="Board Approval" max_length="32" name="board_approval" reference="x_18496_bso_manage_business_service_operations" reference_floats="true" reference_qual="u_type=Board Approval^EQ" reference_qual_condition="u_type=Board Approval^EQ" type="reference"/>
         <element attributes="omit_sys_original=true" label="Adjusted Amount" max_length="20" name="u_adjusted_amount" type="currency"/>
         <element label="Administrator Approved" max_length="40" name="u_administrator_approved" type="boolean"/>
@@ -37,7 +37,7 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" hint="Vendor Master Service Agreement" label="Vendor MSA" max_length="40" name="u_string_6" type="string"/>
-        <element attributes="omit_sys_original=true" calculation="current.u_total_amount  = parseFloat(current.u_initial_amount.getReferenceValue()) + parseFloat(current.u_adjusted_amount.getReferenceValue());&#13;&#10;" label="Total Amount" max_length="20" name="u_total_amount" read_only="true" type="currency" virtual="true"/>
+        <element attributes="omit_sys_original=true" calculation="current.u_total_amount  = parseFloat(current.u_initial_amount.getReferenceValue()) + parseFloat(current.u_adjusted_amount.getReferenceValue());" label="Total Amount" max_length="20" name="u_total_amount" read_only="true" type="currency" virtual="true"/>
         <element attributes="edge_encryption_enabled=true" choice="1" hint="BA - Board Approval&#13;&#10;DUES - Dues and Fees&#13;&#10;HMC - Hardware Maintence Contract&#13;&#10;SAS - Software as a Service&#13;&#10;SMA - Software Master Agreement&#13;&#10;UTILITIES - Telecom/Internet" label="Type" mandatory="true" max_length="40" name="u_type" type="string">
             <choice>
                 <element label="BA" sequence="0" value="BA"/>
@@ -52,5 +52,17 @@
             <choice/>
         </element>
         <element attributes="edge_encryption_enabled=true" hint="Purchasing Cooperative" label="Vendor DIR" max_length="40" name="u_vendor_dir" type="string"/>
+        <index name="index">
+            <element name="u_parent"/>
+        </index>
+        <index name="index2">
+            <element name="board_approval"/>
+        </index>
+        <index name="index3">
+            <element name="u_contract_administrator"/>
+        </index>
+        <index name="index4">
+            <element name="u_vendor"/>
+        </index>
     </element>
 </database>

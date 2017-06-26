@@ -9,9 +9,8 @@
         <sys_class_name>sys_ui_application</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-14 05:11:02</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>97d84e92db933200ce0e7e7dbf9619d1</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Department</sys_name>

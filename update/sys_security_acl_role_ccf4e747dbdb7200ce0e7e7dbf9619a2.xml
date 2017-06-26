@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-16 19:48:46</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ccf4e747dbdb7200ce0e7e7dbf9619a2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_18496_bso_manage_purchase_order.x_18496_bso_manage.purchase_order_user</sys_name>

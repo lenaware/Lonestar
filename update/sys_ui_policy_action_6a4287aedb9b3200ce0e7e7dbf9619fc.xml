@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-15 04:01:08</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6a4287aedb9b3200ce0e7e7dbf9619fc</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>board_approval_action_item</sys_name>

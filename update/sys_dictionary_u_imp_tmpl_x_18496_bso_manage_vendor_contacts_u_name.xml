@@ -47,8 +47,8 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-15 23:22:42</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>4c5c87fedb937200ce0e7e7dbf961936</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a562721adb6bfa809b325bc0cf961906</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Name</sys_name>
         <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
@@ -56,8 +56,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
         <sys_update_name>sys_dictionary_u_imp_tmpl_x_18496_bso_manage_vendor_contacts_u_name</sys_update_name>
-        <sys_updated_by>btippens</sys_updated_by>
-        <sys_updated_on>2017-06-15 23:22:42</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-06-26 18:29:07</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

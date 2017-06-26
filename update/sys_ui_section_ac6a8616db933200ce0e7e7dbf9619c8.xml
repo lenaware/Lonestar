@@ -79,9 +79,8 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>btippens</sys_created_by>
             <sys_created_on>2017-06-14 05:17:41</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>ac6a8616db933200ce0e7e7dbf9619c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_18496_bso_manage_department</sys_name>

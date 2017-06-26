@@ -29,9 +29,8 @@
         <sys_class_name>sys_ui_list_control</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-17 16:06:09</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>208b7bdfdb93b200ce0e7e7dbf9619e0</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_18496_bso_manage_business_service_operations</sys_name>

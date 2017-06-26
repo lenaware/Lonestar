@@ -10,7 +10,7 @@
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-16 04:32:59</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>8b235c43db577200ce0e7e7dbf96198e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Open a New Form</sys_name>

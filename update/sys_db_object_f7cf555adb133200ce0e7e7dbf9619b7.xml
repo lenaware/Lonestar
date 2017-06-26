@@ -9,7 +9,7 @@
         <create_access>true</create_access>
         <create_access_controls>true</create_access_controls>
         <delete_access>false</delete_access>
-        <extension_model/>
+        <extension_model>class</extension_model>
         <is_extendable>true</is_extendable>
         <label>Business Service Operations</label>
         <live_feed_enabled>false</live_feed_enabled>
@@ -17,11 +17,11 @@
         <number_ref display_value="BSO">c482a55edb133200ce0e7e7dbf9619df</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">8adf5b63f5213200a21cc3267c0bd586</super_class>
+        <super_class display_value="Task" name="task">ff284b3399112000728bc7869a18fada</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-14 02:23:23</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>f7cf555adb133200ce0e7e7dbf9619b7</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Business Service Operations</sys_name>
