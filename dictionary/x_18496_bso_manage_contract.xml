@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="Contract" max_length="40" name="x_18496_bso_manage_contract" type="collection">
+    <element audit="true" extends="task" label="Contract" max_length="40" name="x_18496_bso_manage_contract" sizeclass="14" type="collection">
         <element hint="Business Service Operations items filtered by type = Board Approval. For Obligation type, see that field." label="Board Approval" max_length="32" name="board_approval" reference="x_18496_bso_manage_business_service_operations" reference_floats="true" reference_qual="u_type=Board Approval^EQ" reference_qual_condition="u_type=Board Approval^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Board Approval Comment" max_length="100" name="board_approval_comment" type="string"/>
         <element attributes="omit_sys_original=true" label="Adjusted Amount" max_length="20" name="u_adjusted_amount" type="currency"/>
         <element label="Administrator Approved" max_length="40" name="u_administrator_approved" type="boolean"/>
         <element label="Board Approval Comments" max_length="4000" name="u_board_approval_comments" type="journal"/>
         <element label="Comments" max_length="4000" name="u_comments" type="journal"/>
         <element label="Contract Administrator" mandatory="true" max_length="32" name="u_contract_administrator" reference="sys_user" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Contract State" mandatory="true" max_length="40" name="u_contract_state" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Draft" label="Contract State" mandatory="true" max_length="40" name="u_contract_state" type="string">
             <choice>
                 <element label="Draft" sequence="0" value="Draft"/>
                 <element label="Current" sequence="1" value="Current"/>
@@ -16,6 +17,7 @@
         </element>
         <element label="End Date" mandatory="true" max_length="40" name="u_end_date" type="glide_date"/>
         <element attributes="omit_sys_original=true" label="Initial Amount" mandatory="true" max_length="20" name="u_initial_amount" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="LSC Contract Number" max_length="40" name="u_lsc_contract_number" type="string"/>
         <element hint="Business Service Operations items filtered by type = obligation. For Board Approval type, see that field." label="Obligation" max_length="32" name="u_parent" reference="x_18496_bso_manage_business_service_operations" reference_floats="true" reference_qual="u_type=Obligation^EQ" reference_qual_condition="u_type=Obligation^EQ" type="reference"/>
         <element label="Start Date" mandatory="true" max_length="40" name="u_start_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Fiscal Year" mandatory="true" max_length="40" name="u_string_3" type="string">
@@ -51,7 +53,7 @@
         <element choice="2" label="Vendor" mandatory="true" max_length="32" name="u_vendor" reference="core_company" reference_qual="vendor=true^EQ" reference_qual_condition="vendor=true^EQ" type="reference">
             <choice/>
         </element>
-        <element attributes="edge_encryption_enabled=true" hint="Purchasing Cooperative" label="Vendor DIR" max_length="40" name="u_vendor_dir" type="string"/>
+        <element attributes="edge_encryption_enabled=true" hint="Purchasing Cooperative" label="Purchasing Cooperative" max_length="40" name="u_vendor_dir" type="string"/>
         <index name="index">
             <element name="u_parent"/>
         </index>

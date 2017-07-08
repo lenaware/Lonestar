@@ -4,7 +4,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_name</element>
-            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">718a3612dbabfa809b325bc0cf961988</list_id>
+            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd5b7252dbabfa809b325bc0cf961999</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -19,7 +19,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_address_1</element>
-            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">718a3612dbabfa809b325bc0cf961988</list_id>
+            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd5b7252dbabfa809b325bc0cf961999</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -34,7 +34,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_address_2</element>
-            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">718a3612dbabfa809b325bc0cf961988</list_id>
+            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd5b7252dbabfa809b325bc0cf961999</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -49,7 +49,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_cell</element>
-            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">718a3612dbabfa809b325bc0cf961988</list_id>
+            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd5b7252dbabfa809b325bc0cf961999</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -64,7 +64,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_city</element>
-            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">718a3612dbabfa809b325bc0cf961988</list_id>
+            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd5b7252dbabfa809b325bc0cf961999</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
@@ -79,7 +79,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_company</element>
-            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">718a3612dbabfa809b325bc0cf961988</list_id>
+            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd5b7252dbabfa809b325bc0cf961999</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
@@ -94,7 +94,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_department</element>
-            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">718a3612dbabfa809b325bc0cf961988</list_id>
+            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd5b7252dbabfa809b325bc0cf961999</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
@@ -109,7 +109,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_email</element>
-            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">718a3612dbabfa809b325bc0cf961988</list_id>
+            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd5b7252dbabfa809b325bc0cf961999</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
@@ -124,7 +124,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_fax</element>
-            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">718a3612dbabfa809b325bc0cf961988</list_id>
+            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd5b7252dbabfa809b325bc0cf961999</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
@@ -139,7 +139,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_phone</element>
-            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">718a3612dbabfa809b325bc0cf961988</list_id>
+            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd5b7252dbabfa809b325bc0cf961999</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
@@ -164,7 +164,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>bryan.tippens</sys_created_by>
             <sys_created_on>2017-06-26 19:07:15</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>dd5b7252dbabfa809b325bc0cf961999</sys_id>
             <sys_mod_count>0</sys_mod_count>

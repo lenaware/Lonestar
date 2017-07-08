@@ -25,7 +25,7 @@
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-16 19:48:46</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>0cf42b07dbdb7200ce0e7e7dbf961946</sys_id>
         <sys_mod_count>2</sys_mod_count>

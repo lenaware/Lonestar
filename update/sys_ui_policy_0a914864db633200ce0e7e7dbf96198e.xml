@@ -25,7 +25,7 @@
         <sys_class_name>sys_ui_policy</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-20 19:06:46</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>0a914864db633200ce0e7e7dbf96198e</sys_id>
         <sys_mod_count>4</sys_mod_count>

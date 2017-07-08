@@ -4,92 +4,92 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_import_row</element>
-            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_fund" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_fund" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c288369edb6bfa809b325bc0cf9619f7</list_id>
+            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_fund" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_fund" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">26ca031ddbbb76c09b325bc0cf9619a1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 18:55:00</sys_created_on>
-            <sys_id>c688369edb6bfa809b325bc0cf9619f7</sys_id>
+            <sys_created_on>2017-07-06 03:56:33</sys_created_on>
+            <sys_id>eeca031ddbbb76c09b325bc0cf9619a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 18:55:00</sys_updated_on>
+            <sys_updated_on>2017-07-06 03:56:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_import_set</element>
-            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_fund" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_fund" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c288369edb6bfa809b325bc0cf9619f7</list_id>
+            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_fund" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_fund" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">26ca031ddbbb76c09b325bc0cf9619a1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 18:55:00</sys_created_on>
-            <sys_id>4a88369edb6bfa809b325bc0cf9619f7</sys_id>
+            <sys_created_on>2017-07-06 03:56:33</sys_created_on>
+            <sys_id>66ca031ddbbb76c09b325bc0cf9619bb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 18:55:00</sys_updated_on>
+            <sys_updated_on>2017-07-06 03:56:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_import_state</element>
-            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_fund" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_fund" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c288369edb6bfa809b325bc0cf9619f7</list_id>
+            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_fund" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_fund" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">26ca031ddbbb76c09b325bc0cf9619a1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 18:55:00</sys_created_on>
-            <sys_id>ca88369edb6bfa809b325bc0cf9619f7</sys_id>
+            <sys_created_on>2017-07-06 03:56:33</sys_created_on>
+            <sys_id>e6ca031ddbbb76c09b325bc0cf9619bb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 18:55:00</sys_updated_on>
+            <sys_updated_on>2017-07-06 03:56:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_target_table</element>
-            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_fund" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_fund" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c288369edb6bfa809b325bc0cf9619f7</list_id>
+            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_fund" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_fund" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">26ca031ddbbb76c09b325bc0cf9619a1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 18:55:00</sys_created_on>
-            <sys_id>4e88369edb6bfa809b325bc0cf9619f7</sys_id>
+            <sys_created_on>2017-07-06 03:56:33</sys_created_on>
+            <sys_id>6aca031ddbbb76c09b325bc0cf9619bb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 18:55:00</sys_updated_on>
+            <sys_updated_on>2017-07-06 03:56:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_target_sys_id</element>
-            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_fund" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_fund" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c288369edb6bfa809b325bc0cf9619f7</list_id>
+            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_fund" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_fund" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">26ca031ddbbb76c09b325bc0cf9619a1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 18:55:00</sys_created_on>
-            <sys_id>ce88369edb6bfa809b325bc0cf9619f7</sys_id>
+            <sys_created_on>2017-07-06 03:56:33</sys_created_on>
+            <sys_id>eaca031ddbbb76c09b325bc0cf9619bb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 18:55:00</sys_updated_on>
+            <sys_updated_on>2017-07-06 03:56:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_row_error</element>
-            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_fund" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_fund" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c288369edb6bfa809b325bc0cf9619f7</list_id>
+            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_fund" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_fund" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">26ca031ddbbb76c09b325bc0cf9619a1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 18:55:00</sys_created_on>
-            <sys_id>4288369edb6bfa809b325bc0cf9619f8</sys_id>
+            <sys_created_on>2017-07-06 03:56:33</sys_created_on>
+            <sys_id>6eca031ddbbb76c09b325bc0cf9619bb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 18:55:00</sys_updated_on>
+            <sys_updated_on>2017-07-06 03:56:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -103,10 +103,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 18:55:00</sys_created_on>
+            <sys_created_on>2017-07-06 03:56:33</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_id>c288369edb6bfa809b325bc0cf9619f7</sys_id>
+            <sys_id>26ca031ddbbb76c09b325bc0cf9619a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_imp_tmpl_x_18496_bso_manage_fund</sys_name>
             <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
@@ -115,7 +115,7 @@
             <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
             <sys_update_name>sys_ui_list_u_imp_tmpl_x_18496_bso_manage_fund_null</sys_update_name>
             <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 18:55:00</sys_updated_on>
+            <sys_updated_on>2017-07-06 03:56:33</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
