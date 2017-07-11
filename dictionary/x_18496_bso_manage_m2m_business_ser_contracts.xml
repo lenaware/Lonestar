@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Bso Manage M2m Business Ser Contracts" max_length="40" name="x_18496_bso_manage_m2m_business_ser_contracts" type="collection">
+        <element label="Business Service Operations" max_length="32" name="business_service_operations" reference="x_18496_bso_manage_business_service_operations" type="reference"/>
+        <element label="Contract" max_length="32" name="contract" reference="x_18496_bso_manage_contract" type="reference"/>
+        <index name="index">
+            <element name="business_service_operations"/>
+        </index>
+        <index name="index2">
+            <element name="contract"/>
+        </index>
+    </element>
+</database>

@@ -48,7 +48,7 @@
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-14 05:07:11</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>e017c71ddb7b76c09b325bc0cf96199b</sys_id>
+        <sys_id>41f9f7c7137f36c045f97e776144b083</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Description</sys_name>
         <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
@@ -57,7 +57,7 @@
         <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
         <sys_update_name>sys_dictionary_u_imp_tmpl_x_18496_bso_manage_cost_elements_u_description</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-07-06 03:41:03</sys_updated_on>
+        <sys_updated_on>2017-07-11 17:52:57</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

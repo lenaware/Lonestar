@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>Richard.Puckett</sys_created_by>
             <sys_created_on>2017-07-06 19:24:14</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>a71f9a2913f732c045f97e776144b03c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>LSC Contract Number</sys_name>

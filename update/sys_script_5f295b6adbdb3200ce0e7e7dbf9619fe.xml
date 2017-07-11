@@ -48,7 +48,7 @@ current.u_gl_distribution = current.u_fund.u_code + "." + current.u_location.cod
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-15 05:44:07</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>5f295b6adbdb3200ce0e7e7dbf9619fe</sys_id>
         <sys_mod_count>10</sys_mod_count>

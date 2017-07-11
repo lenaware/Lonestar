@@ -6,7 +6,7 @@
         <element attributes="edge_encryption_enabled=true" label="Address 2" max_length="40" name="u_address_2" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Cell" max_length="40" name="u_cell" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="u_city" type="string"/>
-        <element label="Company" max_length="32" name="u_company" reference="core_company" type="reference"/>
+        <element label="Vendor" mandatory="true" max_length="32" name="u_company" reference="core_company" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Department" max_length="40" name="u_department" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Email" mandatory="true" max_length="40" name="u_email" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Fax" max_length="40" name="u_fax" type="string"/>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Hide suggestion for non-itil user (BSO scope only)</description>
+        <field>active</field>
+        <global>false</global>
+        <messages/>
+        <name>Hide Suggestion</name>
+        <order/>
+        <script><![CDATA[function onLoad() {  
+  //hide the kb icon for users that do not have the itil role  
+  var isITIL = g_user.hasRole('itil'); //Check if user has itil role  
+  if(!isITIL){  
+    //pick list icon does not have an id  
+    //get all of the A tag elements in the document  
+    var refs = document.getElementsByTagName("a");  
+    if (refs) {  
+      for (var i=0; i < refs.length; i++) {
+		var ref = refs[i];
+		var inner = ref.innerHTML; 
+        //check for the name of the icon image  
+        if (inner.indexOf("pick_list.gifx") > 0){  
+          ref.style.display = 'none';  
+        }  
+      }  
+    }  
+  }  
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>bryan.tippens</sys_created_by>
+        <sys_created_on>2017-07-10 05:10:49</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>d50248b2dbffbac09b325bc0cf961978</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Hide Suggestion</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
+        <sys_update_name>sys_script_client_d50248b2dbffbac09b325bc0cf961978</sys_update_name>
+        <sys_updated_by>bryan.tippens</sys_updated_by>
+        <sys_updated_on>2017-07-10 05:19:57</sys_updated_on>
+        <table>x_18496_bso_manage_business_service_operations</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

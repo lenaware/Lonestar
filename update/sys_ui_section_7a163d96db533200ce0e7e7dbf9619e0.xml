@@ -4,58 +4,44 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_initial_amount</element>
             <position>0</position>
-            <sys_created_by>btippens</sys_created_by>
-            <sys_created_on>2017-06-14 04:00:01</sys_created_on>
-            <sys_id>8798b11adb533200ce0e7e7dbf9619df</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-11 02:36:43</sys_created_on>
+            <sys_id>0a782ccfdbfffac09b325bc0cf9619fe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Financials" display_value="Financials" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">7a163d96db533200ce0e7e7dbf9619e0</sys_ui_section>
-            <sys_updated_by>btippens</sys_updated_by>
-            <sys_updated_on>2017-06-14 04:00:01</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-11 02:36:43</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_adjusted_amount</element>
             <position>1</position>
-            <sys_created_by>btippens</sys_created_by>
-            <sys_created_on>2017-06-14 04:00:01</sys_created_on>
-            <sys_id>0b98b11adb533200ce0e7e7dbf9619df</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-11 02:36:43</sys_created_on>
+            <sys_id>02782ccfdbfffac09b325bc0cf9619ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Financials" display_value="Financials" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">7a163d96db533200ce0e7e7dbf9619e0</sys_ui_section>
-            <sys_updated_by>btippens</sys_updated_by>
-            <sys_updated_on>2017-06-14 04:00:01</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-11 02:36:43</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_total_amount</element>
             <position>2</position>
-            <sys_created_by>btippens</sys_created_by>
-            <sys_created_on>2017-06-14 04:00:01</sys_created_on>
-            <sys_id>8b98b11adb533200ce0e7e7dbf9619df</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-11 02:36:43</sys_created_on>
+            <sys_id>82782ccfdbfffac09b325bc0cf9619ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Financials" display_value="Financials" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">7a163d96db533200ce0e7e7dbf9619e0</sys_ui_section>
-            <sys_updated_by>btippens</sys_updated_by>
-            <sys_updated_on>2017-06-14 04:00:01</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-11 02:36:43</sys_updated_on>
             <sys_user/>
             <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>3</position>
-            <sys_created_by>btippens</sys_created_by>
-            <sys_created_on>2017-06-14 04:00:01</sys_created_on>
-            <sys_id>0f98b11adb533200ce0e7e7dbf9619df</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Financials" display_value="Financials" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">7a163d96db533200ce0e7e7dbf9619e0</sys_ui_section>
-            <sys_updated_by>btippens</sys_updated_by>
-            <sys_updated_on>2017-06-14 04:00:01</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Financials</caption>
@@ -68,7 +54,7 @@
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>7a163d96db533200ce0e7e7dbf9619e0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_name>Financials</sys_name>
             <sys_overrides/>
             <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
@@ -76,8 +62,8 @@
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
             <sys_update_name>sys_ui_section_7a163d96db533200ce0e7e7dbf9619e0</sys_update_name>
-            <sys_updated_by>btippens</sys_updated_by>
-            <sys_updated_on>2017-06-14 03:49:06</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-11 02:36:44</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>

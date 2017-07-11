@@ -7,10 +7,10 @@
         <attributes/>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Company</column_label>
+        <column_label>Vendor</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,7 +27,7 @@
         <element_reference>false</element_reference>
         <foreign_database/>
         <internal_type display_value="Reference">reference</internal_type>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <max_length>32</max_length>
         <name>x_18496_bso_manage_vendor_contacts</name>
         <next_element/>
@@ -48,16 +48,16 @@
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-15 23:19:29</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>1f07471ddb7b76c09b325bc0cf9619f7</sys_id>
+        <sys_id>77e9b7c7137f36c045f97e776144b099</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Company</sys_name>
+        <sys_name>Vendor</sys_name>
         <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
         <sys_update_name>sys_dictionary_x_18496_bso_manage_vendor_contacts_u_company</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-07-06 03:41:37</sys_updated_on>
+        <sys_updated_by>bryan.tippens</sys_updated_by>
+        <sys_updated_on>2017-07-11 17:57:19</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
