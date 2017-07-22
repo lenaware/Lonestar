@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="Contract" max_length="40" name="x_18496_bso_manage_contract" type="collection">
-        <element hint="Business Service Operations items filtered by type = Board Approval. For Obligation type, see that field." label="Board Approval" max_length="32" name="board_approval" reference="x_18496_bso_manage_business_service_operations" reference_floats="true" reference_qual="u_type=Board Approval^EQ" reference_qual_condition="u_type=Board Approval^EQ" type="reference"/>
+    <element audit="true" extends="task" label="Contract" max_length="40" name="x_18496_bso_manage_contract" sizeclass="29" type="collection">
+        <element hint="Business Service Operations items filtered by type = Board Approval. For Obligation type, see that field." label="Board Approval" max_length="32" name="board_approval" read_only="true" reference="x_18496_bso_manage_business_service_operations" reference_floats="true" reference_qual="u_type=Board Approval^EQ" reference_qual_condition="u_type=Board Approval^EQ" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Board Approval Comment" max_length="100" name="board_approval_comment" type="string"/>
+        <element label="Obligation" max_length="32" name="obligation" read_only="true" reference="x_18496_bso_manage_business_service_operations" reference_floats="true" reference_qual="u_type=Obligation^EQ" reference_qual_condition="u_type=Obligation^EQ" type="reference"/>
         <element attributes="omit_sys_original=true" label="Adjusted Amount" max_length="20" name="u_adjusted_amount" type="currency"/>
         <element label="Administrator Approved" max_length="40" name="u_administrator_approved" type="boolean"/>
         <element label="Board Approval Comments" max_length="4000" name="u_board_approval_comments" type="journal"/>
@@ -19,9 +20,6 @@
         <element attributes="omit_sys_original=true" label="Initial Amount" mandatory="true" max_length="20" name="u_initial_amount" type="currency"/>
         <element attributes="edge_encryption_enabled=true" label="LSC Contract Number" max_length="40" name="u_lsc_contract_number" type="string"/>
         <element hint="Business Service Operations items filtered by type = obligation. For Board Approval type, see that field." label="Obligation" max_length="32" name="u_parent" reference="x_18496_bso_manage_business_service_operations" reference_floats="true" reference_qual="u_type=Obligation^EQ" reference_qual_condition="u_type=Obligation^EQ" type="reference"/>
-        <element label="Spacer1" max_length="40" name="u_spacer1" type="glide_time"/>
-        <element label="Spacer2" max_length="40" name="u_spacer2" type="glide_time"/>
-        <element label="Spacer3" max_length="40" name="u_spacer3" type="glide_time"/>
         <element label="Start Date" mandatory="true" max_length="40" name="u_start_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Fiscal Year" mandatory="true" max_length="40" name="u_string_3" type="string">
             <choice>
@@ -64,9 +62,12 @@
             <element name="board_approval"/>
         </index>
         <index name="index3">
-            <element name="u_contract_administrator"/>
+            <element name="obligation"/>
         </index>
         <index name="index4">
+            <element name="u_contract_administrator"/>
+        </index>
+        <index name="index5">
             <element name="u_vendor"/>
         </index>
     </element>

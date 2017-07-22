@@ -4,252 +4,252 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>0</position>
-            <sys_created_by>Richard.Puckett</sys_created_by>
-            <sys_created_on>2017-07-06 19:24:15</sys_created_on>
-            <sys_id>bf1f9a2913f732c045f97e776144b058</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 02:56:24</sys_created_on>
+            <sys_id>04b9b9ed134c4fc045f97e776144b057</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">9fd0f516db533200ce0e7e7dbf9619d2</sys_ui_section>
-            <sys_updated_by>Richard.Puckett</sys_updated_by>
-            <sys_updated_on>2017-07-06 19:24:15</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-19 02:56:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_vendor</element>
             <position>1</position>
-            <sys_created_by>Richard.Puckett</sys_created_by>
-            <sys_created_on>2017-07-06 19:24:15</sys_created_on>
-            <sys_id>371f9a2913f732c045f97e776144b059</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 02:56:24</sys_created_on>
+            <sys_id>88b9b9ed134c4fc045f97e776144b057</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">9fd0f516db533200ce0e7e7dbf9619d2</sys_ui_section>
-            <sys_updated_by>Richard.Puckett</sys_updated_by>
-            <sys_updated_on>2017-07-06 19:24:15</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-19 02:56:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_vendor_dir</element>
             <position>2</position>
-            <sys_created_by>Richard.Puckett</sys_created_by>
-            <sys_created_on>2017-07-06 19:24:15</sys_created_on>
-            <sys_id>b71f9a2913f732c045f97e776144b059</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 02:56:24</sys_created_on>
+            <sys_id>0cb9b9ed134c4fc045f97e776144b057</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">9fd0f516db533200ce0e7e7dbf9619d2</sys_ui_section>
-            <sys_updated_by>Richard.Puckett</sys_updated_by>
-            <sys_updated_on>2017-07-06 19:24:15</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-19 02:56:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_string_6</element>
             <position>3</position>
-            <sys_created_by>Richard.Puckett</sys_created_by>
-            <sys_created_on>2017-07-06 19:24:15</sys_created_on>
-            <sys_id>3b1f9a2913f732c045f97e776144b059</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 02:56:24</sys_created_on>
+            <sys_id>8cb9b9ed134c4fc045f97e776144b057</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">9fd0f516db533200ce0e7e7dbf9619d2</sys_ui_section>
-            <sys_updated_by>Richard.Puckett</sys_updated_by>
-            <sys_updated_on>2017-07-06 19:24:15</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-19 02:56:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_parent</element>
+            <element>obligation</element>
             <position>4</position>
-            <sys_created_by>Richard.Puckett</sys_created_by>
-            <sys_created_on>2017-07-06 19:24:15</sys_created_on>
-            <sys_id>bb1f9a2913f732c045f97e776144b059</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 02:56:24</sys_created_on>
+            <sys_id>00b9b9ed134c4fc045f97e776144b058</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">9fd0f516db533200ce0e7e7dbf9619d2</sys_ui_section>
-            <sys_updated_by>Richard.Puckett</sys_updated_by>
-            <sys_updated_on>2017-07-06 19:24:15</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-19 02:56:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>board_approval</element>
             <position>5</position>
-            <sys_created_by>Richard.Puckett</sys_created_by>
-            <sys_created_on>2017-07-06 19:24:15</sys_created_on>
-            <sys_id>3f1f9a2913f732c045f97e776144b059</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 02:56:24</sys_created_on>
+            <sys_id>80b9b9ed134c4fc045f97e776144b058</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">9fd0f516db533200ce0e7e7dbf9619d2</sys_ui_section>
-            <sys_updated_by>Richard.Puckett</sys_updated_by>
-            <sys_updated_on>2017-07-06 19:24:15</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-19 02:56:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_lsc_contract_number</element>
             <position>6</position>
-            <sys_created_by>Richard.Puckett</sys_created_by>
-            <sys_created_on>2017-07-06 19:24:15</sys_created_on>
-            <sys_id>bf1f9a2913f732c045f97e776144b059</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 02:56:24</sys_created_on>
+            <sys_id>04b9b9ed134c4fc045f97e776144b058</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">9fd0f516db533200ce0e7e7dbf9619d2</sys_ui_section>
-            <sys_updated_by>Richard.Puckett</sys_updated_by>
-            <sys_updated_on>2017-07-06 19:24:15</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-19 02:56:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>7</position>
-            <sys_created_by>Richard.Puckett</sys_created_by>
-            <sys_created_on>2017-07-06 19:24:15</sys_created_on>
-            <sys_id>331f9a2913f732c045f97e776144b05a</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 02:56:24</sys_created_on>
+            <sys_id>84b9b9ed134c4fc045f97e776144b058</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">9fd0f516db533200ce0e7e7dbf9619d2</sys_ui_section>
-            <sys_updated_by>Richard.Puckett</sys_updated_by>
-            <sys_updated_on>2017-07-06 19:24:15</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-19 02:56:24</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_contract_state</element>
             <position>8</position>
-            <sys_created_by>Richard.Puckett</sys_created_by>
-            <sys_created_on>2017-07-06 19:24:15</sys_created_on>
-            <sys_id>b31f9a2913f732c045f97e776144b05a</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 02:56:24</sys_created_on>
+            <sys_id>08b9b9ed134c4fc045f97e776144b058</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">9fd0f516db533200ce0e7e7dbf9619d2</sys_ui_section>
-            <sys_updated_by>Richard.Puckett</sys_updated_by>
-            <sys_updated_on>2017-07-06 19:24:15</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-19 02:56:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_string_3</element>
             <position>9</position>
-            <sys_created_by>Richard.Puckett</sys_created_by>
-            <sys_created_on>2017-07-06 19:24:15</sys_created_on>
-            <sys_id>371f9a2913f732c045f97e776144b05a</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 02:56:24</sys_created_on>
+            <sys_id>88b9b9ed134c4fc045f97e776144b058</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">9fd0f516db533200ce0e7e7dbf9619d2</sys_ui_section>
-            <sys_updated_by>Richard.Puckett</sys_updated_by>
-            <sys_updated_on>2017-07-06 19:24:15</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-19 02:56:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_type</element>
             <position>10</position>
-            <sys_created_by>Richard.Puckett</sys_created_by>
-            <sys_created_on>2017-07-06 19:24:15</sys_created_on>
-            <sys_id>b71f9a2913f732c045f97e776144b05a</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 02:56:24</sys_created_on>
+            <sys_id>0cb9b9ed134c4fc045f97e776144b058</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">9fd0f516db533200ce0e7e7dbf9619d2</sys_ui_section>
-            <sys_updated_by>Richard.Puckett</sys_updated_by>
-            <sys_updated_on>2017-07-06 19:24:15</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-19 02:56:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_contract_administrator</element>
             <position>11</position>
-            <sys_created_by>Richard.Puckett</sys_created_by>
-            <sys_created_on>2017-07-06 19:24:15</sys_created_on>
-            <sys_id>3b1f9a2913f732c045f97e776144b05a</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 02:56:24</sys_created_on>
+            <sys_id>8cb9b9ed134c4fc045f97e776144b058</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">9fd0f516db533200ce0e7e7dbf9619d2</sys_ui_section>
-            <sys_updated_by>Richard.Puckett</sys_updated_by>
-            <sys_updated_on>2017-07-06 19:24:15</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-19 02:56:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_start_date</element>
             <position>12</position>
-            <sys_created_by>Richard.Puckett</sys_created_by>
-            <sys_created_on>2017-07-06 19:24:15</sys_created_on>
-            <sys_id>bb1f9a2913f732c045f97e776144b05a</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 02:56:24</sys_created_on>
+            <sys_id>00b9b9ed134c4fc045f97e776144b059</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">9fd0f516db533200ce0e7e7dbf9619d2</sys_ui_section>
-            <sys_updated_by>Richard.Puckett</sys_updated_by>
-            <sys_updated_on>2017-07-06 19:24:15</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-19 02:56:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_end_date</element>
             <position>13</position>
-            <sys_created_by>Richard.Puckett</sys_created_by>
-            <sys_created_on>2017-07-06 19:24:15</sys_created_on>
-            <sys_id>3f1f9a2913f732c045f97e776144b05a</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 02:56:24</sys_created_on>
+            <sys_id>80b9b9ed134c4fc045f97e776144b059</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">9fd0f516db533200ce0e7e7dbf9619d2</sys_ui_section>
-            <sys_updated_by>Richard.Puckett</sys_updated_by>
-            <sys_updated_on>2017-07-06 19:24:15</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-19 02:56:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>board_approval_comment</element>
             <position>14</position>
-            <sys_created_by>Richard.Puckett</sys_created_by>
-            <sys_created_on>2017-07-06 19:24:15</sys_created_on>
-            <sys_id>bf1f9a2913f732c045f97e776144b05a</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 02:56:24</sys_created_on>
+            <sys_id>04b9b9ed134c4fc045f97e776144b059</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">9fd0f516db533200ce0e7e7dbf9619d2</sys_ui_section>
-            <sys_updated_by>Richard.Puckett</sys_updated_by>
-            <sys_updated_on>2017-07-06 19:24:15</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-19 02:56:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
             <position>15</position>
-            <sys_created_by>Richard.Puckett</sys_created_by>
-            <sys_created_on>2017-07-06 19:24:15</sys_created_on>
-            <sys_id>331f9a2913f732c045f97e776144b05b</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 02:56:24</sys_created_on>
+            <sys_id>84b9b9ed134c4fc045f97e776144b059</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">9fd0f516db533200ce0e7e7dbf9619d2</sys_ui_section>
-            <sys_updated_by>Richard.Puckett</sys_updated_by>
-            <sys_updated_on>2017-07-06 19:24:15</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-19 02:56:24</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
             <position>16</position>
-            <sys_created_by>Richard.Puckett</sys_created_by>
-            <sys_created_on>2017-07-06 19:24:15</sys_created_on>
-            <sys_id>b31f9a2913f732c045f97e776144b05b</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 02:56:24</sys_created_on>
+            <sys_id>08b9b9ed134c4fc045f97e776144b059</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">9fd0f516db533200ce0e7e7dbf9619d2</sys_ui_section>
-            <sys_updated_by>Richard.Puckett</sys_updated_by>
-            <sys_updated_on>2017-07-06 19:24:15</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-19 02:56:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
             <position>17</position>
-            <sys_created_by>Richard.Puckett</sys_created_by>
-            <sys_created_on>2017-07-06 19:24:15</sys_created_on>
-            <sys_id>371f9a2913f732c045f97e776144b05b</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 02:56:24</sys_created_on>
+            <sys_id>88b9b9ed134c4fc045f97e776144b059</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_contract" sys_domain="global" view="Default view">9fd0f516db533200ce0e7e7dbf9619d2</sys_ui_section>
-            <sys_updated_by>Richard.Puckett</sys_updated_by>
-            <sys_updated_on>2017-07-06 19:24:15</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-19 02:56:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -264,7 +264,7 @@
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>9fd0f516db533200ce0e7e7dbf9619d2</sys_id>
-            <sys_mod_count>5</sys_mod_count>
+            <sys_mod_count>6</sys_mod_count>
             <sys_name>x_18496_bso_manage_contract</sys_name>
             <sys_overrides/>
             <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
@@ -272,8 +272,8 @@
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
             <sys_update_name>sys_ui_section_9fd0f516db533200ce0e7e7dbf9619d2</sys_update_name>
-            <sys_updated_by>Richard.Puckett</sys_updated_by>
-            <sys_updated_on>2017-07-06 19:24:15</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-19 02:56:24</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

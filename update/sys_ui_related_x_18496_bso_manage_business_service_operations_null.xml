@@ -2,19 +2,32 @@
 <record_update>
     <sys_ui_related sys_domain="global" table="x_18496_bso_manage_business_service_operations" version="2" view="">
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
-            <filter table="x_18496_bso_manage_contract.parent">u_contract_state=Current^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-            </filter>
-            <list_id display_value="Business Service Operations - Default view" name="x_18496_bso_manage_business_service_operations" related_list="NULL" sys_domain="global" view="Default view">ed0a2eabdbd7b200ce0e7e7dbf96190c</list_id>
+            <filter/>
+            <list_id display_value="Business Service Operations - Default view" name="x_18496_bso_manage_business_service_operations" related_list="NULL" sys_domain="global" view="Default view">50dab921138c4fc045f97e776144b060</list_id>
             <order_by/>
             <position>0</position>
-            <related_list>x_18496_bso_manage_contract.parent</related_list>
+            <related_list>x_18496_bso_manage_contract.board_approval</related_list>
             <sys_class_name>sys_ui_related_list_entry</sys_class_name>
-            <sys_created_by>btippens</sys_created_by>
-            <sys_created_on>2017-06-18 04:48:20</sys_created_on>
-            <sys_id>650a2eabdbd7b200ce0e7e7dbf96190d</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 03:01:19</sys_created_on>
+            <sys_id>d8dab921138c4fc045f97e776144b060</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-07-10 03:43:30</sys_updated_on>
+            <sys_updated_on>2017-07-19 03:01:19</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Business Service Operations - Default view" name="x_18496_bso_manage_business_service_operations" related_list="NULL" sys_domain="global" view="Default view">50dab921138c4fc045f97e776144b060</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_18496_bso_manage_contract.obligation</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 03:01:19</sys_created_on>
+            <sys_id>d0dab921138c4fc045f97e776144b061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-19 03:01:19</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list action="INSERT_OR_UPDATE">
             <calculated_name>Business Service Operations - Default view</calculated_name>
@@ -24,12 +37,12 @@
             <position/>
             <related_list/>
             <sys_class_name>sys_ui_related_list</sys_class_name>
-            <sys_created_by>btippens</sys_created_by>
-            <sys_created_on>2017-06-18 04:48:20</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-19 03:01:19</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_id>ed0a2eabdbd7b200ce0e7e7dbf96190c</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_id>50dab921138c4fc045f97e776144b060</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_name>Business Service Operations - Default view</sys_name>
             <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
             <sys_policy/>
@@ -37,7 +50,7 @@
             <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
             <sys_update_name>sys_ui_related_x_18496_bso_manage_business_service_operations_null</sys_update_name>
             <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-07-10 03:43:30</sys_updated_on>
+            <sys_updated_on>2017-07-19 03:01:19</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

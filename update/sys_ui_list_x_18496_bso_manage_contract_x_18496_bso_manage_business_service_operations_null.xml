@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="x_18496_bso_manage_business_service_operations" relationship="" sys_domain="global" table="x_18496_bso_manage_contract" version="2" view="">
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_18496_bso_manage_contract</name>
+            <parent>x_18496_bso_manage_business_service_operations</parent>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>Richard.Puckett</sys_created_by>
+            <sys_created_on>2017-07-21 17:52:55</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>001ad31a1344030445f97e776144b077</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_18496_bso_manage_contract</sys_name>
+            <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
+            <sys_update_name>sys_ui_list_x_18496_bso_manage_contract_x_18496_bso_manage_business_service_operations_null</sys_update_name>
+            <sys_updated_by>Richard.Puckett</sys_updated_by>
+            <sys_updated_on>2017-07-21 17:52:55</sys_updated_on>
+            <sys_user display_value="Richard Puckett">5a709d4021b81140a64cdb6d279a6d3d</sys_user>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -4,92 +4,92 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_import_row</element>
-            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_contract" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_contract" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d857a1edb6bfa809b325bc0cf9619de</list_id>
+            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_contract" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_contract" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">31279f9d13c44fc045f97e776144b04a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 18:41:49</sys_created_on>
-            <sys_id>01857a1edb6bfa809b325bc0cf9619df</sys_id>
+            <sys_created_on>2017-07-18 15:06:15</sys_created_on>
+            <sys_id>f5279f9d13c44fc045f97e776144b04a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 18:41:49</sys_updated_on>
+            <sys_updated_on>2017-07-18 15:06:15</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_import_set</element>
-            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_contract" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_contract" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d857a1edb6bfa809b325bc0cf9619de</list_id>
+            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_contract" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_contract" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">31279f9d13c44fc045f97e776144b04a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 18:41:49</sys_created_on>
-            <sys_id>81857a1edb6bfa809b325bc0cf9619df</sys_id>
+            <sys_created_on>2017-07-18 15:06:15</sys_created_on>
+            <sys_id>7d279f9d13c44fc045f97e776144b04a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 18:41:49</sys_updated_on>
+            <sys_updated_on>2017-07-18 15:06:15</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_import_state</element>
-            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_contract" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_contract" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d857a1edb6bfa809b325bc0cf9619de</list_id>
+            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_contract" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_contract" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">31279f9d13c44fc045f97e776144b04a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 18:41:49</sys_created_on>
-            <sys_id>05857a1edb6bfa809b325bc0cf9619df</sys_id>
+            <sys_created_on>2017-07-18 15:06:15</sys_created_on>
+            <sys_id>fd279f9d13c44fc045f97e776144b04a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 18:41:49</sys_updated_on>
+            <sys_updated_on>2017-07-18 15:06:15</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_target_table</element>
-            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_contract" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_contract" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d857a1edb6bfa809b325bc0cf9619de</list_id>
+            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_contract" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_contract" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">31279f9d13c44fc045f97e776144b04a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 18:41:49</sys_created_on>
-            <sys_id>85857a1edb6bfa809b325bc0cf9619df</sys_id>
+            <sys_created_on>2017-07-18 15:06:15</sys_created_on>
+            <sys_id>71279f9d13c44fc045f97e776144b04b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 18:41:49</sys_updated_on>
+            <sys_updated_on>2017-07-18 15:06:15</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_target_sys_id</element>
-            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_contract" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_contract" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d857a1edb6bfa809b325bc0cf9619de</list_id>
+            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_contract" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_contract" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">31279f9d13c44fc045f97e776144b04a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 18:41:49</sys_created_on>
-            <sys_id>09857a1edb6bfa809b325bc0cf9619df</sys_id>
+            <sys_created_on>2017-07-18 15:06:15</sys_created_on>
+            <sys_id>f1279f9d13c44fc045f97e776144b04b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 18:41:49</sys_updated_on>
+            <sys_updated_on>2017-07-18 15:06:15</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_row_error</element>
-            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_contract" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_contract" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0d857a1edb6bfa809b325bc0cf9619de</list_id>
+            <list_id display_value="u_imp_tmpl_x_18496_bso_manage_contract" element="NULL" name="u_imp_tmpl_x_18496_bso_manage_contract" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">31279f9d13c44fc045f97e776144b04a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 18:41:49</sys_created_on>
-            <sys_id>89857a1edb6bfa809b325bc0cf9619df</sys_id>
+            <sys_created_on>2017-07-18 15:06:15</sys_created_on>
+            <sys_id>75279f9d13c44fc045f97e776144b04b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 18:41:49</sys_updated_on>
+            <sys_updated_on>2017-07-18 15:06:15</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -103,10 +103,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 18:41:49</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
+            <sys_created_on>2017-07-18 15:06:15</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_id>0d857a1edb6bfa809b325bc0cf9619de</sys_id>
+            <sys_id>31279f9d13c44fc045f97e776144b04a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_imp_tmpl_x_18496_bso_manage_contract</sys_name>
             <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
@@ -115,7 +115,7 @@
             <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
             <sys_update_name>sys_ui_list_u_imp_tmpl_x_18496_bso_manage_contract_null</sys_update_name>
             <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 18:41:49</sys_updated_on>
+            <sys_updated_on>2017-07-18 15:06:15</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

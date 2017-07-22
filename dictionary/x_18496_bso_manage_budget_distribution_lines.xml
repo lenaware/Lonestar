@@ -7,9 +7,9 @@
         <element attributes="omit_sys_original=true" default="0" label="Amount" mandatory="true" max_length="20" name="u_currency_8" type="currency"/>
         <element label="Department" mandatory="true" max_length="32" name="u_department" reference="x_18496_bso_manage_department" type="reference"/>
         <element label="Fund" mandatory="true" max_length="32" name="u_fund" reference="x_18496_bso_manage_fund" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" label="GL Distribution" max_length="40" name="u_gl_distribution" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="GL Distribution" max_length="40" name="u_gl_distribution" read_only="true" type="string"/>
         <element label="Location" mandatory="true" max_length="32" name="u_location" reference="x_18496_bso_manage_location" type="reference"/>
-        <element label="Parent Contract" max_length="32" name="u_parent_contract" reference="x_18496_bso_manage_contract" reference_floats="true" type="reference"/>
+        <element label="Parent Contract" max_length="32" name="u_parent_contract" read_only="true" reference="x_18496_bso_manage_contract" reference_floats="true" type="reference"/>
         <element label="Project" max_length="32" name="u_project" reference="x_18496_bso_manage_projects" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Percent" mandatory="true" max_length="40" name="u_string_4" type="string"/>
         <index name="index">

@@ -3,7 +3,10 @@
     <sys_ui_list_control action="INSERT_OR_UPDATE">
         <columns_condition/>
         <edit_condition/>
-        <edit_default_filter/>
+        <edit_default_filter table="x_18496_bso_manage_contract">board_approvalISEMPTY^u_contract_state=Current^EQ<item endquery="false" field="board_approval" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
+            <item endquery="false" field="u_contract_state" goto="false" newquery="false" operator="=" or="false" value="Current"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </edit_default_filter>
         <edit_roles/>
         <empty_condition/>
         <filter_condition/>
@@ -29,10 +32,10 @@
         <sys_class_name>sys_ui_list_control</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-17 16:05:35</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>d42bf7dfdb93b200ce0e7e7dbf961941</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>x_18496_bso_manage_business_service_operations</sys_name>
         <sys_overrides display_value="">global</sys_overrides>
         <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
@@ -40,7 +43,7 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
         <sys_update_name>sys_ui_list_control_d42bf7dfdb93b200ce0e7e7dbf961941</sys_update_name>
-        <sys_updated_by>btippens</sys_updated_by>
-        <sys_updated_on>2017-06-17 16:05:35</sys_updated_on>
+        <sys_updated_by>Richard.Puckett</sys_updated_by>
+        <sys_updated_on>2017-07-21 19:03:24</sys_updated_on>
     </sys_ui_list_control>
 </record_update>

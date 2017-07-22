@@ -2,16 +2,16 @@
 <record_update>
     <sys_ui_section caption="Notes" section_id="4ed7a3c7dbdb7200ce0e7e7dbf96193a" sys_domain="global" table="x_18496_bso_manage_purchase_order" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>work_notes</element>
+            <element>u_journal_1</element>
             <position>0</position>
             <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-07-10 03:58:57</sys_created_on>
-            <sys_id>38b13f6adb3fbac09b325bc0cf961935</sys_id>
+            <sys_created_on>2017-07-21 20:04:14</sys_created_on>
+            <sys_id>f318b79e1384030445f97e776144b08b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_18496_bso_manage_purchase_order" sys_domain="global" view="Default view">4ed7a3c7dbdb7200ce0e7e7dbf96193a</sys_ui_section>
             <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-07-10 03:58:57</sys_updated_on>
+            <sys_updated_on>2017-07-21 20:04:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
