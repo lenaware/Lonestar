@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <messages/>
+        <name>Hide Related List in BSO Scope</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Hide related list depending on type
+   var type = g_form.getValue('u_type');
+	if (type == 1) {
+		//alert('Type is Board Approval');
+		g_form.hideRelatedList('x_18496_bso_manage_contract.obligation');
+	}
+	else if (type == 2) {
+		//alert('Type is Obligation');
+		g_form.hideRelatedList('x_18496_bso_manage_contract.board_approval');
+	}
+	//hideRelatedLists();
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>btippens</sys_created_by>
+        <sys_created_on>2017-07-23 06:24:43</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>9dafc77a4f400300cbc600f18110c7a6</sys_id>
+        <sys_mod_count>22</sys_mod_count>
+        <sys_name>Hide Related List in BSO Scope</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
+        <sys_update_name>sys_script_client_9dafc77a4f400300cbc600f18110c7a6</sys_update_name>
+        <sys_updated_by>btippens</sys_updated_by>
+        <sys_updated_on>2017-07-24 00:22:37</sys_updated_on>
+        <table>x_18496_bso_manage_business_service_operations</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

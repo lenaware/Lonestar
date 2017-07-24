@@ -14,10 +14,10 @@
             <sys_created_on>2017-06-14 03:13:00</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_id>02dda1d2db533200ce0e7e7dbf96198d</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>btippens</sys_updated_by>
-            <sys_updated_on>2017-06-15 23:06:07</sys_updated_on>
-            <value>Board Approval</value>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-24 01:03:24</sys_updated_on>
+            <value>1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -32,10 +32,10 @@
             <sys_created_on>2017-06-14 03:09:01</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_id>f3eca992db533200ce0e7e7dbf9619af</sys_id>
-            <sys_mod_count>4</sys_mod_count>
-            <sys_updated_by>btippens</sys_updated_by>
-            <sys_updated_on>2017-06-15 23:06:07</sys_updated_on>
-            <value>Obligation</value>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-24 01:03:28</sys_updated_on>
+            <value>2</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_type</element>
@@ -45,15 +45,15 @@
             <sys_created_on>2017-06-14 03:09:01</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_id>df5a770b137f36c045f97e776144b0a1</sys_id>
-            <sys_mod_count>11</sys_mod_count>
+            <sys_mod_count>13</sys_mod_count>
             <sys_name>u_type</sys_name>
             <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
             <sys_update_name>sys_choice_x_18496_bso_manage_business_service_operations_u_type</sys_update_name>
-            <sys_updated_by>btippens</sys_updated_by>
-            <sys_updated_on>2017-06-15 23:08:44</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-24 01:03:28</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

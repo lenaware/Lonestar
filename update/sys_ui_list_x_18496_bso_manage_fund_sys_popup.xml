@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_18496_bso_manage_fund" version="2" view="sys_popup">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_code</element>
+            <list_id display_value="x_18496_bso_manage_fund" element="NULL" name="x_18496_bso_manage_fund" parent="NULL" relationship="NULL" sys_domain="global" view="c7402b100a0a0b8400cf971d83ee4384">f5be51fa1384430445f97e776144b0e3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-22 22:10:57</sys_created_on>
+            <sys_id>79bed93e1384430445f97e776144b04c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-22 22:10:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_string_2</element>
+            <list_id display_value="x_18496_bso_manage_fund" element="NULL" name="x_18496_bso_manage_fund" parent="NULL" relationship="NULL" sys_domain="global" view="c7402b100a0a0b8400cf971d83ee4384">f5be51fa1384430445f97e776144b0e3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-22 22:10:57</sys_created_on>
+            <sys_id>f9bed93e1384430445f97e776144b04c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-22 22:10:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_18496_bso_manage_fund</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-22 22:10:57</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>f5be51fa1384430445f97e776144b0e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_18496_bso_manage_fund</sys_name>
+            <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
+            <sys_update_name>sys_ui_list_x_18496_bso_manage_fund_sys_popup</sys_update_name>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-22 22:10:57</sys_updated_on>
+            <sys_user/>
+            <view display_value="Sys_popup" name="sys_popup">c7402b100a0a0b8400cf971d83ee4384</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

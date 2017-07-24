@@ -2,74 +2,46 @@
 <record_update>
     <sys_ui_section caption="" section_id="ac6a8616db933200ce0e7e7dbf9619c8" sys_domain="global" table="x_18496_bso_manage_department" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
+            <element>code</element>
             <position>0</position>
-            <sys_created_by>btippens</sys_created_by>
-            <sys_created_on>2017-06-14 05:17:41</sys_created_on>
-            <sys_id>606a8616db933200ce0e7e7dbf9619cc</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-22 22:21:08</sys_created_on>
+            <sys_id>4701a1be1384430445f97e776144b0be</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_department" sys_domain="global" view="Default view">ac6a8616db933200ce0e7e7dbf9619c8</sys_ui_section>
-            <sys_updated_by>btippens</sys_updated_by>
-            <sys_updated_on>2017-06-14 05:17:41</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-22 22:21:08</sys_updated_on>
             <sys_user/>
-            <type>.begin_split</type>
+            <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>code</element>
+            <element>description</element>
             <position>1</position>
-            <sys_created_by>btippens</sys_created_by>
-            <sys_created_on>2017-06-14 05:17:41</sys_created_on>
-            <sys_id>e06a8616db933200ce0e7e7dbf9619cc</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-22 22:21:08</sys_created_on>
+            <sys_id>c701a1be1384430445f97e776144b0be</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_department" sys_domain="global" view="Default view">ac6a8616db933200ce0e7e7dbf9619c8</sys_ui_section>
-            <sys_updated_by>btippens</sys_updated_by>
-            <sys_updated_on>2017-06-14 05:17:41</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-22 22:21:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>2</position>
-            <sys_created_by>btippens</sys_created_by>
-            <sys_created_on>2017-06-14 05:17:41</sys_created_on>
-            <sys_id>646a8616db933200ce0e7e7dbf9619cc</sys_id>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-22 22:21:08</sys_created_on>
+            <sys_id>4b01a1be1384430445f97e776144b0be</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_department" sys_domain="global" view="Default view">ac6a8616db933200ce0e7e7dbf9619c8</sys_ui_section>
-            <sys_updated_by>btippens</sys_updated_by>
-            <sys_updated_on>2017-06-14 05:17:41</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-22 22:21:08</sys_updated_on>
             <sys_user/>
             <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>description</element>
-            <position>3</position>
-            <sys_created_by>btippens</sys_created_by>
-            <sys_created_on>2017-06-14 05:17:41</sys_created_on>
-            <sys_id>e46a8616db933200ce0e7e7dbf9619cc</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_department" sys_domain="global" view="Default view">ac6a8616db933200ce0e7e7dbf9619c8</sys_ui_section>
-            <sys_updated_by>btippens</sys_updated_by>
-            <sys_updated_on>2017-06-14 05:17:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>4</position>
-            <sys_created_by>btippens</sys_created_by>
-            <sys_created_on>2017-06-14 05:17:41</sys_created_on>
-            <sys_id>686a8616db933200ce0e7e7dbf9619cc</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_department" sys_domain="global" view="Default view">ac6a8616db933200ce0e7e7dbf9619c8</sys_ui_section>
-            <sys_updated_by>btippens</sys_updated_by>
-            <sys_updated_on>2017-06-14 05:17:41</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
@@ -82,7 +54,7 @@
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>ac6a8616db933200ce0e7e7dbf9619c8</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_name>x_18496_bso_manage_department</sys_name>
             <sys_overrides/>
             <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
@@ -90,8 +62,8 @@
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
             <sys_update_name>sys_ui_section_ac6a8616db933200ce0e7e7dbf9619c8</sys_update_name>
-            <sys_updated_by>btippens</sys_updated_by>
-            <sys_updated_on>2017-06-14 05:17:41</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-22 22:21:08</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

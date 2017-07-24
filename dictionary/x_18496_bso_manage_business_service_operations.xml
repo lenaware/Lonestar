@@ -10,8 +10,8 @@
         <element label="Owner" mandatory="true" max_length="32" name="u_owner" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Type" mandatory="true" max_length="40" name="u_type" type="string">
             <choice>
-                <element label="Board Approval" sequence="0" value="Board Approval"/>
-                <element label="Obligation" sequence="1" value="Obligation"/>
+                <element label="Board Approval" sequence="0" value="1"/>
+                <element label="Obligation" sequence="1" value="2"/>
             </choice>
         </element>
         <index name="index">
