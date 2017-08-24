@@ -32,7 +32,7 @@
         <sys_class_name>sys_ui_list_control</sys_class_name>
         <sys_created_by>bryan.tippens</sys_created_by>
         <sys_created_on>2017-07-19 03:02:38</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>471b7d21138c4fc045f97e776144b0ff</sys_id>
         <sys_mod_count>3</sys_mod_count>

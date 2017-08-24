@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="email_client=true" extends="task" label="Business Service Operations" max_length="40" name="x_18496_bso_manage_business_service_operations" sizeclass="23" type="collection">
-        <element attributes="omit_sys_original=true" label="Amount" max_length="20" name="amount" type="currency"/>
+    <element attributes="email_client=true" extends="task" label="Business Service Operations" max_length="40" name="x_18496_bso_manage_business_service_operations" sizeclass="57" type="collection">
+        <element attributes="omit_sys_original=true" create_roles="admin" label="Amount" max_length="20" name="amount" read_roles="x_18496_bso_manage.bso_management_admin,x_18496_bso_manage.bso_management_user" type="currency"/>
         <element label="Best contact number" max_length="40" name="best_contact_number" type="phone_number_e164"/>
         <element label="Board Approval Action Item" max_length="100" name="board_approval_action_item" type="string"/>
         <element label="Building" max_length="32" name="building" reference="cmn_building" reference_qual="javascript:'u_active=true^location=' + current.location;" type="reference" use_reference_qualifier="advanced"/>
-        <element label="Campus/Site" mandatory="true" max_length="32" name="u_location" reference="cmn_location" type="reference"/>
+        <element label="Campus/Site" mandatory="true" max_length="32" name="u_location" reference="cmn_location" reference_qual="sys_idINjavascript: getCampusSiteForField()^EQ" type="reference" use_reference_qualifier="advanced"/>
         <element label="Expiration Date" mandatory="true" max_length="40" name="u_option_date" type="glide_date"/>
-        <element label="Owner" mandatory="true" max_length="32" name="u_owner" reference="sys_user" type="reference"/>
+        <element label="Owner" mandatory="true" max_length="32" name="u_owner" reference="sys_user" reference_qual="u_type=Staff^EQ" reference_qual_condition="u_type=Staff^EQ" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Type" mandatory="true" max_length="40" name="u_type" type="string">
             <choice>
                 <element label="Board Approval" sequence="0" value="1"/>

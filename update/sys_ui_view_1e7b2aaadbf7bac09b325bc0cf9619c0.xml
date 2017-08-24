@@ -8,7 +8,7 @@
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>bryan.tippens</sys_created_by>
         <sys_created_on>2017-07-09 22:52:08</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>1e7b2aaadbf7bac09b325bc0cf9619c0</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Sys_popup,ci_definition</sys_name>

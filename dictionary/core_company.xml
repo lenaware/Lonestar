@@ -8,5 +8,12 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="Secondary Type" max_length="40" name="x_18496_bso_manage_u_secondary_type" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Primary Type" max_length="40" name="x_18496_bso_manage_u_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DBA" max_length="40" name="x_losls_bso_manage_u_dba" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vendor ID" mandatory="true" max_length="40" name="x_losls_bso_manage_u_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Purchasing Contract Vendor" max_length="40" name="x_losls_bso_manage_u_purchasing_contract_vendor" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Secondary Type" max_length="40" name="x_losls_bso_manage_u_secondary_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Primary Type" max_length="40" name="x_losls_bso_manage_u_type" type="string"/>
     </element>
 </database>

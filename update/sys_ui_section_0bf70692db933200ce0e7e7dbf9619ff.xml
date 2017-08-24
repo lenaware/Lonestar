@@ -96,7 +96,7 @@
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>0bf70692db933200ce0e7e7dbf9619ff</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_name>u_imp_tmpl_x_18496_bso_manage_cost_elements</sys_name>
             <sys_overrides/>
             <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
@@ -104,8 +104,8 @@
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
             <sys_update_name>sys_ui_section_0bf70692db933200ce0e7e7dbf9619ff</sys_update_name>
-            <sys_updated_by>btippens</sys_updated_by>
-            <sys_updated_on>2017-06-14 05:07:12</sys_updated_on>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-08-17 17:46:53</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>

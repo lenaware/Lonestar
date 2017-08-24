@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_board_approval_action_item" label="Board Approval Action Item" language="en" table="u_imp_tmpl_x_18496_bso_manage_business_service_operations">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_board_approval_action_item</element>
+            <help/>
+            <hint/>
+            <label>Board Approval Action Item</label>
+            <language>en</language>
+            <name>u_imp_tmpl_x_18496_bso_manage_business_service_operations</name>
+            <plural>Board Approval Action Items</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-24 20:23:00</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>7b29db57dbccc7049c535bc0cf96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Board Approval Action Item</sys_name>
+            <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
+            <sys_update_name>sys_documentation_u_imp_tmpl_x_18496_bso_manage_business_service_operations_u_board_approval_action_item_en</sys_update_name>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-24 20:23:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>bryan.tippens</sys_created_by>
             <sys_created_on>2017-07-21 20:04:13</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>a318b79e1384030445f97e776144b06a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Comments</sys_name>

@@ -48,7 +48,7 @@
         <sys_created_by>bryan.tippens</sys_created_by>
         <sys_created_on>2017-07-10 02:15:26</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>100a5fa6db7bbac09b325bc0cf9619c2</sys_id>
+        <sys_id>9aae7657db8cc7049c535bc0cf9619ed</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Business Service Operations</sys_name>
         <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
@@ -56,8 +56,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
         <sys_update_name>sys_dictionary_x_18496_bso_manage_m2m_business_ser_contracts_business_service_operations</sys_update_name>
-        <sys_updated_by>bryan.tippens</sys_updated_by>
-        <sys_updated_on>2017-07-11 17:57:18</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-07-24 18:28:44</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

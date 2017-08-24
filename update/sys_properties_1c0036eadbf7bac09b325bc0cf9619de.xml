@@ -11,7 +11,7 @@
         <sys_class_name>sys_properties</sys_class_name>
         <sys_created_by>bryan.tippens</sys_created_by>
         <sys_created_on>2017-07-09 23:11:56</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>1c0036eadbf7bac09b325bc0cf9619de</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>glide.ui.x_18496_bso_manage_purchase_order_activity.fields</sys_name>

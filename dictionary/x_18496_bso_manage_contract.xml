@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="Contract" max_length="40" name="x_18496_bso_manage_contract" sizeclass="29" type="collection">
-        <element hint="Business Service Operations items filtered by type = Board Approval. For Obligation type, see that field." label="Board Approval" max_length="32" name="board_approval" read_only="true" reference="x_18496_bso_manage_business_service_operations" reference_floats="true" reference_qual="u_type=Board Approval^EQ" reference_qual_condition="u_type=Board Approval^EQ" type="reference"/>
+    <element audit="true" extends="task" label="Contract" max_length="40" name="x_18496_bso_manage_contract" sizeclass="21" type="collection">
+        <element hint="Business Service Operations items filtered by type = Board Approval. For Obligation type, see that field." label="Board Approval" max_length="32" name="board_approval" reference="x_18496_bso_manage_business_service_operations" reference_floats="true" reference_qual="u_type=1^EQ" reference_qual_condition="u_type=1^EQ" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Board Approval Comment" max_length="100" name="board_approval_comment" type="string"/>
-        <element label="Obligation" max_length="32" name="obligation" read_only="true" reference="x_18496_bso_manage_business_service_operations" reference_floats="true" reference_qual="u_type=Obligation^EQ" reference_qual_condition="u_type=Obligation^EQ" type="reference"/>
+        <element label="Obligation" max_length="32" name="obligation" reference="x_18496_bso_manage_business_service_operations" reference_floats="true" reference_qual="u_type=2^EQ" reference_qual_condition="u_type=2^EQ" type="reference"/>
         <element attributes="omit_sys_original=true" label="Adjusted Amount" max_length="20" name="u_adjusted_amount" type="currency"/>
         <element label="Administrator Approved" max_length="40" name="u_administrator_approved" type="boolean"/>
         <element label="Board Approval Comments" max_length="4000" name="u_board_approval_comments" type="journal"/>
         <element label="Comments" max_length="4000" name="u_comments" type="journal"/>
-        <element label="Contract Administrator" mandatory="true" max_length="32" name="u_contract_administrator" reference="sys_user" type="reference"/>
+        <element label="Contract Administrator" mandatory="true" max_length="32" name="u_contract_administrator" reference="sys_user" reference_qual="u_type=Staff^EQ" reference_qual_condition="u_type=Staff^EQ" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="Draft" label="Contract State" mandatory="true" max_length="40" name="u_contract_state" type="string">
             <choice>
                 <element label="Draft" sequence="0" value="Draft"/>
