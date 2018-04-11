@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>bryan.tippens</sys_created_by>
         <sys_created_on>2017-07-10 16:34:10</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>f18e9632dbfbfac09b325bc0cf96194b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>core_company.x_18496_bso_manage.bso_management_admin</sys_name>
@@ -16,7 +16,7 @@
         <sys_update_name>sys_security_acl_role_f18e9632dbfbfac09b325bc0cf96194b</sys_update_name>
         <sys_updated_by>bryan.tippens</sys_updated_by>
         <sys_updated_on>2017-07-10 16:34:10</sys_updated_on>
-        <sys_user_role display_value="x_18496_bso_manage.bso_management_admin" name="x_18496_bso_manage.bso_management_admin">6bf6b703db1f7200ce0e7e7dbf9619b0</sys_user_role>
+        <sys_user_role display_value="x_18496_bso_manage.bso_management_admin" name="x_18496_bso_manage.bso_management_admin">ff0df343db20cbc0eee2b1c0ef961962</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>

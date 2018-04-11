@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" label="Bso Manage Contract" max_length="40" name="x_losls_bso_manage_contract" type="collection">
+        <element label="Board Approval" max_length="32" name="board_approval" read_only="true" reference="x_losls_bso_manage_business_service_operations" reference_floats="true" reference_qual="u_type=Board Approval^EQ" reference_qual_condition="u_type=Board Approval^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Board Approval Comment" max_length="100" name="board_approval_comment" type="string"/>
+        <element label="Obligation" max_length="32" name="obligation" read_only="true" reference="x_losls_bso_manage_business_service_operations" reference_floats="true" reference_qual="u_type=Obligation^EQ" reference_qual_condition="u_type=Obligation^EQ" type="reference"/>
+        <index name="index">
+            <element name="board_approval"/>
+        </index>
+        <index name="index2">
+            <element name="obligation"/>
+        </index>
+    </element>
+</database>

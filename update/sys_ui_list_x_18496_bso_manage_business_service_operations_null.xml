@@ -4,107 +4,122 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_18496_bso_manage_business_service_operations" element="NULL" name="x_18496_bso_manage_business_service_operations" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8250b13a13c4430445f97e776144b0ba</list_id>
+            <list_id display_value="x_18496_bso_manage_business_service_operations" element="NULL" name="x_18496_bso_manage_business_service_operations" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ffa3ce0c13d107c09ee9b6076144b07e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-07-22 23:27:58</sys_created_on>
-            <sys_id>c650b13a13c4430445f97e776144b0ba</sys_id>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-09-14 15:07:40</sys_created_on>
+            <sys_id>37a3ce0c13d107c09ee9b6076144b07f</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-07-22 23:27:58</sys_updated_on>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-09-14 15:07:40</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_type</element>
-            <list_id display_value="x_18496_bso_manage_business_service_operations" element="NULL" name="x_18496_bso_manage_business_service_operations" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8250b13a13c4430445f97e776144b0ba</list_id>
+            <list_id display_value="x_18496_bso_manage_business_service_operations" element="NULL" name="x_18496_bso_manage_business_service_operations" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ffa3ce0c13d107c09ee9b6076144b07e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
-            <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-07-22 23:27:58</sys_created_on>
-            <sys_id>4a50b13a13c4430445f97e776144b0ba</sys_id>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-09-14 15:07:40</sys_created_on>
+            <sys_id>b7a3ce0c13d107c09ee9b6076144b07f</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-07-22 23:27:58</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>u_option_date</element>
-            <list_id display_value="x_18496_bso_manage_business_service_operations" element="NULL" name="x_18496_bso_manage_business_service_operations" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8250b13a13c4430445f97e776144b0ba</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>2</position>
-            <sum>false</sum>
-            <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-07-22 23:27:58</sys_created_on>
-            <sys_id>ca50b13a13c4430445f97e776144b0ba</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-07-22 23:27:58</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>u_owner</element>
-            <list_id display_value="x_18496_bso_manage_business_service_operations" element="NULL" name="x_18496_bso_manage_business_service_operations" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8250b13a13c4430445f97e776144b0ba</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>3</position>
-            <sum>false</sum>
-            <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-07-22 23:27:58</sys_created_on>
-            <sys_id>4e50b13a13c4430445f97e776144b0ba</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-07-22 23:27:58</sys_updated_on>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-09-14 15:07:40</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>short_description</element>
-            <list_id display_value="x_18496_bso_manage_business_service_operations" element="NULL" name="x_18496_bso_manage_business_service_operations" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8250b13a13c4430445f97e776144b0ba</list_id>
+            <list_id display_value="x_18496_bso_manage_business_service_operations" element="NULL" name="x_18496_bso_manage_business_service_operations" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ffa3ce0c13d107c09ee9b6076144b07e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-09-14 15:07:40</sys_created_on>
+            <sys_id>3ba3ce0c13d107c09ee9b6076144b07f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-09-14 15:07:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_owner</element>
+            <list_id display_value="x_18496_bso_manage_business_service_operations" element="NULL" name="x_18496_bso_manage_business_service_operations" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ffa3ce0c13d107c09ee9b6076144b07e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-09-14 15:07:40</sys_created_on>
+            <sys_id>bba3ce0c13d107c09ee9b6076144b07f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-09-14 15:07:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_amount</element>
+            <list_id display_value="x_18496_bso_manage_business_service_operations" element="NULL" name="x_18496_bso_manage_business_service_operations" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ffa3ce0c13d107c09ee9b6076144b07e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
-            <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-07-22 23:27:58</sys_created_on>
-            <sys_id>ce50b13a13c4430445f97e776144b0ba</sys_id>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-09-14 15:07:40</sys_created_on>
+            <sys_id>3fa3ce0c13d107c09ee9b6076144b07f</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-07-22 23:27:58</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>board_approval_action_item</element>
-            <list_id display_value="x_18496_bso_manage_business_service_operations" element="NULL" name="x_18496_bso_manage_business_service_operations" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8250b13a13c4430445f97e776144b0ba</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>5</position>
-            <sum>false</sum>
-            <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-07-22 23:27:58</sys_created_on>
-            <sys_id>4250b13a13c4430445f97e776144b0bb</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-07-22 23:27:58</sys_updated_on>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-09-14 15:07:40</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_location</element>
-            <list_id display_value="x_18496_bso_manage_business_service_operations" element="NULL" name="x_18496_bso_manage_business_service_operations" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8250b13a13c4430445f97e776144b0ba</list_id>
+            <list_id display_value="x_18496_bso_manage_business_service_operations" element="NULL" name="x_18496_bso_manage_business_service_operations" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ffa3ce0c13d107c09ee9b6076144b07e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-09-14 15:07:40</sys_created_on>
+            <sys_id>bfa3ce0c13d107c09ee9b6076144b07f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-09-14 15:07:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>board_approval_action_item</element>
+            <list_id display_value="x_18496_bso_manage_business_service_operations" element="NULL" name="x_18496_bso_manage_business_service_operations" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ffa3ce0c13d107c09ee9b6076144b07e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
-            <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-07-22 23:27:58</sys_created_on>
-            <sys_id>c250b13a13c4430445f97e776144b0bb</sys_id>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-09-14 15:07:40</sys_created_on>
+            <sys_id>33a3ce0c13d107c09ee9b6076144b080</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-07-22 23:27:58</sys_updated_on>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-09-14 15:07:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_option_date</element>
+            <list_id display_value="x_18496_bso_manage_business_service_operations" element="NULL" name="x_18496_bso_manage_business_service_operations" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ffa3ce0c13d107c09ee9b6076144b07e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-09-14 15:07:40</sys_created_on>
+            <sys_id>b3a3ce0c13d107c09ee9b6076144b080</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-09-14 15:07:40</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -117,11 +132,11 @@
             <relationship/>
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
-            <sys_created_by>Richard.Puckett</sys_created_by>
-            <sys_created_on>2017-07-20 16:16:31</sys_created_on>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-09-14 15:07:40</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_id>e66af94edbc847049b325bc0cf96192b</sys_id>
+            <sys_id>ffa3ce0c13d107c09ee9b6076144b07e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_18496_bso_manage_business_service_operations</sys_name>
             <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
@@ -129,9 +144,9 @@
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
             <sys_update_name>sys_ui_list_x_18496_bso_manage_business_service_operations_null</sys_update_name>
-            <sys_updated_by>Richard.Puckett</sys_updated_by>
-            <sys_updated_on>2017-07-20 16:16:31</sys_updated_on>
-            <sys_user display_value="Richard Puckett">5a709d4021b81140a64cdb6d279a6d3d</sys_user>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-09-14 15:07:40</sys_updated_on>
+            <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>

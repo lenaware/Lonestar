@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="INSERT_OR_UPDATE">
+        <action_name>Copy</action_name>
+        <active>true</active>
+        <client>false</client>
+        <comments/>
+        <condition/>
+        <form_action>true</form_action>
+        <form_button>true</form_button>
+        <form_context_menu>false</form_context_menu>
+        <form_link>false</form_link>
+        <form_style/>
+        <hint>create new contract</hint>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style/>
+        <name>Copy</name>
+        <onclick/>
+        <order>100</order>
+        <script><![CDATA[//clear the fields we dont want to copy
+
+
+
+var oldid = current.sys_id;
+
+
+var gr = new GlideRecord('x_18496_bso_manage_contract');
+gr.initialize();
+gr.u_vendor = current.u_vendor;
+gr.u_id = current.u_id;
+gr.obligation = current.obligation;
+gr.board_approval = current.board_approval;
+gr.u_lsc_contract_number = current.u_lsc_contract_number;
+gr.u_contract_location= current.u_contract_location;
+gr.u_contract_administrator= current.u_contract_administrator;
+gr.u_type= current.u_type;
+gr.board_approval_comment = current.board_approval_comment;
+gr.short_description = current.short_description;
+gr.description = current.description;
+
+
+var x = gr.insert();
+
+
+if (x) {
+	var taskcis = new GlideRecord('x_18496_bso_manage_budget_distribution_lines');
+	taskcis.addQuery('u_parent_contract',oldid);
+	taskcis.query();
+	while (taskcis.next()) {
+		//create a budget line
+		var gr1 = new GlideRecord('x_18496_bso_manage_budget_distribution_lines');
+		gr1.initialize();
+		gr1.u_fund = taskcis.u_fund;
+		gr1.u_location = taskcis.u_location;
+		gr1.u_cost_element = taskcis.u_cost_element;
+		gr1.u_gl_distribution = taskcis.u_gl_distribution;
+		gr1.u_department = taskcis.u_department;
+		gr1.u_account = taskcis.u_account;
+		// gr1.u_project = taskcis.u_project;
+		// gr1.u_currency_8 = taskcis.u_currency_8;
+		gr1.u_parent_contract = x;
+		gr1.insert();
+		//
+		
+	}
+}
+
+
+//bring the user to the new record
+action.setRedirectURL(gr);
+
+]]></script>
+        <show_insert>true</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>Daniel.Gachuche</sys_created_by>
+        <sys_created_on>2017-07-31 22:59:01</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>ed00cc35db1cc300d352f93baf96196c</sys_id>
+        <sys_mod_count>50</sys_mod_count>
+        <sys_name>Copy</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
+        <sys_update_name>sys_ui_action_ed00cc35db1cc300d352f93baf96196c</sys_update_name>
+        <sys_updated_by>Daniel.Gachuche</sys_updated_by>
+        <sys_updated_on>2017-08-03 15:17:43</sys_updated_on>
+        <table>x_18496_bso_manage_contract</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+</record_update>

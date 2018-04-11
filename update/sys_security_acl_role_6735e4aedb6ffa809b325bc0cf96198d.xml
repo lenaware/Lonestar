@@ -16,7 +16,7 @@
         <sys_update_name>sys_security_acl_role_6735e4aedb6ffa809b325bc0cf96198d</sys_update_name>
         <sys_updated_by>bryan.tippens</sys_updated_by>
         <sys_updated_on>2017-06-27 02:50:10</sys_updated_on>
-        <sys_user_role display_value="x_18496_bso_manage.bso_management_user" name="x_18496_bso_manage.bso_management_user">237da634db6f3200ce0e7e7dbf9619cb</sys_user_role>
+        <sys_user_role display_value="x_18496_bso_manage.bso_management_user" name="x_18496_bso_manage.bso_management_user">7f0df343db20cbc0eee2b1c0ef961966</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>

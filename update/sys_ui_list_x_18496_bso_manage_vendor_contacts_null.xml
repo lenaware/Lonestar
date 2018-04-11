@@ -4,152 +4,152 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_name</element>
-            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd5b7252dbabfa809b325bc0cf961999</list_id>
+            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fc41185bdba0cbc0eee2b1c0ef9619cf</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 19:03:44</sys_created_on>
-            <sys_id>f58a3612dbabfa809b325bc0cf961988</sys_id>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-08-18 02:20:56</sys_created_on>
+            <sys_id>7441185bdba0cbc0eee2b1c0ef9619d0</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 19:03:44</sys_updated_on>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-08-18 02:20:56</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>u_address_1</element>
-            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd5b7252dbabfa809b325bc0cf961999</list_id>
+            <element>u_active_vendor_contact</element>
+            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fc41185bdba0cbc0eee2b1c0ef9619cf</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
-            <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 19:03:44</sys_created_on>
-            <sys_id>798a3612dbabfa809b325bc0cf961988</sys_id>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-08-18 02:20:56</sys_created_on>
+            <sys_id>f441185bdba0cbc0eee2b1c0ef9619d0</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 19:03:44</sys_updated_on>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-08-18 02:20:56</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>u_address_2</element>
-            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd5b7252dbabfa809b325bc0cf961999</list_id>
+            <element>u_address_1</element>
+            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fc41185bdba0cbc0eee2b1c0ef9619cf</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
-            <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 19:03:44</sys_created_on>
-            <sys_id>f98a3612dbabfa809b325bc0cf961988</sys_id>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-08-18 02:20:56</sys_created_on>
+            <sys_id>7841185bdba0cbc0eee2b1c0ef9619d0</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 19:03:44</sys_updated_on>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-08-18 02:20:56</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>u_cell</element>
-            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd5b7252dbabfa809b325bc0cf961999</list_id>
+            <element>u_address_2</element>
+            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fc41185bdba0cbc0eee2b1c0ef9619cf</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
-            <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 19:03:44</sys_created_on>
-            <sys_id>7d8a3612dbabfa809b325bc0cf961988</sys_id>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-08-18 02:20:56</sys_created_on>
+            <sys_id>f841185bdba0cbc0eee2b1c0ef9619d0</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 19:03:44</sys_updated_on>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-08-18 02:20:56</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>u_city</element>
-            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd5b7252dbabfa809b325bc0cf961999</list_id>
+            <element>u_cell</element>
+            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fc41185bdba0cbc0eee2b1c0ef9619cf</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
-            <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 19:03:44</sys_created_on>
-            <sys_id>fd8a3612dbabfa809b325bc0cf961988</sys_id>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-08-18 02:20:56</sys_created_on>
+            <sys_id>7c41185bdba0cbc0eee2b1c0ef9619d0</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 19:03:44</sys_updated_on>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-08-18 02:20:56</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>u_company</element>
-            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd5b7252dbabfa809b325bc0cf961999</list_id>
+            <element>u_city</element>
+            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fc41185bdba0cbc0eee2b1c0ef9619cf</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
-            <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 19:03:44</sys_created_on>
-            <sys_id>718a3612dbabfa809b325bc0cf961989</sys_id>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-08-18 02:20:56</sys_created_on>
+            <sys_id>fc41185bdba0cbc0eee2b1c0ef9619d0</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 19:03:44</sys_updated_on>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-08-18 02:20:56</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>u_department</element>
-            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd5b7252dbabfa809b325bc0cf961999</list_id>
+            <element>u_company</element>
+            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fc41185bdba0cbc0eee2b1c0ef9619cf</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
-            <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 19:03:44</sys_created_on>
-            <sys_id>f18a3612dbabfa809b325bc0cf961989</sys_id>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-08-18 02:20:56</sys_created_on>
+            <sys_id>7041185bdba0cbc0eee2b1c0ef9619d1</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 19:03:44</sys_updated_on>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-08-18 02:20:56</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>u_email</element>
-            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd5b7252dbabfa809b325bc0cf961999</list_id>
+            <element>u_department</element>
+            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fc41185bdba0cbc0eee2b1c0ef9619cf</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
-            <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 19:03:44</sys_created_on>
-            <sys_id>758a3612dbabfa809b325bc0cf961989</sys_id>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-08-18 02:20:56</sys_created_on>
+            <sys_id>f041185bdba0cbc0eee2b1c0ef9619d1</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 19:03:44</sys_updated_on>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-08-18 02:20:56</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>u_fax</element>
-            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd5b7252dbabfa809b325bc0cf961999</list_id>
+            <element>u_email</element>
+            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fc41185bdba0cbc0eee2b1c0ef9619cf</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
             <sum>false</sum>
-            <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 19:03:44</sys_created_on>
-            <sys_id>f58a3612dbabfa809b325bc0cf961989</sys_id>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-08-18 02:20:56</sys_created_on>
+            <sys_id>7441185bdba0cbc0eee2b1c0ef9619d1</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 19:03:44</sys_updated_on>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-08-18 02:20:56</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>u_phone</element>
-            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dd5b7252dbabfa809b325bc0cf961999</list_id>
+            <element>u_fax</element>
+            <list_id display_value="x_18496_bso_manage_vendor_contacts" element="NULL" name="x_18496_bso_manage_vendor_contacts" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">fc41185bdba0cbc0eee2b1c0ef9619cf</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
             <sum>false</sum>
-            <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 19:03:44</sys_created_on>
-            <sys_id>798a3612dbabfa809b325bc0cf961989</sys_id>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-08-18 02:20:56</sys_created_on>
+            <sys_id>f441185bdba0cbc0eee2b1c0ef9619d1</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 19:03:44</sys_updated_on>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-08-18 02:20:56</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -162,11 +162,11 @@
             <relationship/>
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
-            <sys_created_by>bryan.tippens</sys_created_by>
-            <sys_created_on>2017-06-26 19:07:15</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-08-18 02:20:56</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_id>dd5b7252dbabfa809b325bc0cf961999</sys_id>
+            <sys_id>fc41185bdba0cbc0eee2b1c0ef9619cf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_18496_bso_manage_vendor_contacts</sys_name>
             <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
@@ -174,8 +174,8 @@
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
             <sys_update_name>sys_ui_list_x_18496_bso_manage_vendor_contacts_null</sys_update_name>
-            <sys_updated_by>bryan.tippens</sys_updated_by>
-            <sys_updated_on>2017-06-26 19:07:15</sys_updated_on>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-08-18 02:20:56</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

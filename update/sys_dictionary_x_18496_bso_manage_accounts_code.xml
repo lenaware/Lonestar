@@ -31,6 +31,8 @@
         <element>code</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
@@ -52,17 +54,17 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-14 05:30:10</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>a1f9f7c7137f36c045f97e776144b0f5</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5dbe3a57db8cc7049c535bc0cf96191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Code</sys_name>
         <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
         <sys_update_name>sys_dictionary_x_18496_bso_manage_accounts_code</sys_update_name>
-        <sys_updated_by>bryan.tippens</sys_updated_by>
-        <sys_updated_on>2017-07-22 22:41:21</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-07-24 18:28:19</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

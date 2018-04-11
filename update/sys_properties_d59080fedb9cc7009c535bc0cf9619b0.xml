@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Budget Distribution Lines activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_18496_bso_manage_budget_distribution_lines_activity.fields</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>bryan.tippens</sys_created_by>
+        <sys_created_on>2017-08-04 01:35:23</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d59080fedb9cc7009c535bc0cf9619b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.x_18496_bso_manage_budget_distribution_lines_activity.fields</sys_name>
+        <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
+        <sys_update_name>sys_properties_d59080fedb9cc7009c535bc0cf9619b0</sys_update_name>
+        <sys_updated_by>bryan.tippens</sys_updated_by>
+        <sys_updated_on>2017-08-04 01:35:23</sys_updated_on>
+        <type>string</type>
+        <value>number,u_fund,u_location,u_cost_element,u_department,u_account,u_project,u_currency_8,u_string_4,u_gl_distribution,u_parent_contract,*Attachments*,sys_mod_count,*Email*,*Relations*</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=d59080fedb9cc7009c535bc0cf9619b0"/>
+</record_update>

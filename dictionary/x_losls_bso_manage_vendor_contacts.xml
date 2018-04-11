@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Bso Manage Vendor Contacts" max_length="40" name="x_losls_bso_manage_vendor_contacts" type="collection"/>
+</database>

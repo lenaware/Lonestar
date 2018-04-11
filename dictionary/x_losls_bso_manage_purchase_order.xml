@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" label="Bso Manage Purchase Order" max_length="40" name="x_losls_bso_manage_purchase_order" type="collection"/>
+</database>

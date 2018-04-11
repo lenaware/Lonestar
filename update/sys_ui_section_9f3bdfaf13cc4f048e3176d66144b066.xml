@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="9f3bdfaf13cc4f048e3176d66144b066" sys_domain="global" table="x_18496_bso_manage_contract" version="3" view="sys_popup">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>0</position>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-25 15:31:05</sys_created_on>
+            <sys_id>e5ff53a313008f048e3176d66144b0ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_18496_bso_manage_contract" sys_domain="global" view="c7402b100a0a0b8400cf971d83ee4384">9f3bdfaf13cc4f048e3176d66144b066</sys_ui_section>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-25 15:31:05</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_18496_bso_manage_contract</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>bryan.tippens</sys_created_by>
+            <sys_created_on>2017-07-25 15:10:27</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>9f3bdfaf13cc4f048e3176d66144b066</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_18496_bso_manage_contract</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
+            <sys_update_name>sys_ui_section_9f3bdfaf13cc4f048e3176d66144b066</sys_update_name>
+            <sys_updated_by>bryan.tippens</sys_updated_by>
+            <sys_updated_on>2017-07-25 15:10:27</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Sys_popup" name="sys_popup">c7402b100a0a0b8400cf971d83ee4384</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

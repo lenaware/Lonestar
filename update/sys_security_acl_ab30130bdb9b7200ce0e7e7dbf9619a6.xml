@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-16 18:18:44</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ab30130bdb9b7200ce0e7e7dbf9619a6</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>core_company.x_18496_bso_manage_u_id</sys_name>

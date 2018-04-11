@@ -9,6 +9,7 @@
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_18496_bso_manage.budget_distribution_lines_user</name>
+        <scoped_admin>false</scoped_admin>
         <suffix>budget_distribution_lines_user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>btippens</sys_created_by>

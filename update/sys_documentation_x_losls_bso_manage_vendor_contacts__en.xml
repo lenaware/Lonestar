@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Bso Manage Vendor Contacts" language="en" table="x_losls_bso_manage_vendor_contacts">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Bso Manage Vendor Contacts</label>
+            <language>en</language>
+            <name>x_losls_bso_manage_vendor_contacts</name>
+            <plural>Bso Manage Vendor Contacts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>MACROFT</sys_created_by>
+            <sys_created_on>2017-08-18 00:53:05</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>de2dbb43db20cbc0eee2b1c0ef9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Bso Manage Vendor Contacts</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
+            <sys_update_name>sys_documentation_x_losls_bso_manage_vendor_contacts__en</sys_update_name>
+            <sys_updated_by>MACROFT</sys_updated_by>
+            <sys_updated_on>2017-08-18 00:53:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

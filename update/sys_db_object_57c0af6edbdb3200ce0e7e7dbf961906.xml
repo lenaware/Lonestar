@@ -18,7 +18,9 @@
         <provider_class/>
         <read_access>true</read_access>
         <super_class display_value="Import Set Row" name="sys_import_set_row">1829c37399112000728bc7869a18fa06</super_class>
+        <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
         <sys_created_by>btippens</sys_created_by>
         <sys_created_on>2017-06-15 06:13:44</sys_created_on>
         <sys_customer_update>false</sys_customer_update>

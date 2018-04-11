@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Usage by Web API">d5c01092136c47008e3176d66144b059</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 01-21-2016 6:17 PM">eb64fbd29f811200ef4afa7dc67fcf69</portal_widget>
+        <posx>0</posx>
+        <posy>10</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>bryan.tippens</sys_created_by>
+        <sys_created_on>2017-08-14 23:44:51</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>11c01092136c47008e3176d66144b05b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="BSO Management" source="x_18496_bso_manage">e1bf999adb133200ce0e7e7dbf961934</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BSO Management">e1bf999adb133200ce0e7e7dbf961934</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_11c01092136c47008e3176d66144b05b</sys_update_name>
+        <sys_updated_by>bryan.tippens</sys_updated_by>
+        <sys_updated_on>2017-08-14 23:44:55</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+</record_update>
